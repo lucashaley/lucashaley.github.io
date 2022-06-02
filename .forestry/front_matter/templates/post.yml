@@ -12,7 +12,7 @@ fields:
 - type: text
   name: title
   label: title
-- name: teaser
+- name: excerpt
   type: textarea
   default: ''
   config:
@@ -20,7 +20,7 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-  label: teaser
+  label: excerpt
 - type: list
   name: categories
   label: categories
