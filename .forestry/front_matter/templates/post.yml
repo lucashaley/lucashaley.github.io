@@ -29,7 +29,7 @@ fields:
   config:
     maxSize: 64
   label: splash
-- name: related_pages
+- name: similar_pages
   type: list
   config:
     use_select: true
@@ -40,4 +40,4 @@ fields:
       section: jekyll-posts
       file: 
       path: ''
-  label: related_pages
+  label: similar pages
