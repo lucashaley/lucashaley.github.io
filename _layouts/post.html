@@ -33,13 +33,15 @@ layout: default
 
   <div class="related">
     {% if post %}
-      {% assign related = post.related %}
+      {% assign related_pages = post.related_pages %}
     {% else %}
-      {% assign related = page.related %}
+      {% assign related_pages = page.related_pages %}
     {% endif %}
-    {% for related_page in related | where:"path", related %}
-      <h2>{{ related_page.title }}</h2>
-      <p>{{ related_page.excerpt }}</p>
+    {% for related_page in related_pages %}
+      {% for related in site.pages | where:"path", related_page %}
+        <h2>{{ related.title }}</h2>
+        <p>{{ related.excerpt }}</p>
+      {% endfor %}
     {% endfor %}
   </div>
 
