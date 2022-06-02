@@ -4,6 +4,7 @@ title: This is a new post
 categories:
 - Testing
 splash: "/uploads/282850601_10159904836509757_966137849339933871_n.jpeg"
+teaser: What happens when you try a **new** thing?
 
 ---
 # Generally Testing Things.
