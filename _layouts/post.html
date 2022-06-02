@@ -32,18 +32,14 @@ layout: default
   </div>
 
   <div class="related">
-    path: {{ page.path }}
     {% if post %}
       {% assign similar_pages = post.similar_pages %}
     {% else %}
       {% assign similar_pages = page.similar_pages %}
     {% endif %}
     {% for similar_page in similar_pages %}
-      <p>similar_page: {{ similar_page }}</p>
       {% assign similar = site.posts | where: 'path', similar_page | first %}
-      <a href="{{site.baseurl}}{{ similar.url }}">Another page</a>
-      <h3>Title: {{ similar.title }}</h3>
-      <p>Excerpt: {{ similar.excerpt }}</p>
+      <a href="{{site.baseurl}}{{ similar.url }}">{{ similar.title }}: {{ similar.excerpt | truncate: 20 }}</a>
     {% endfor %}
   </div>
 
