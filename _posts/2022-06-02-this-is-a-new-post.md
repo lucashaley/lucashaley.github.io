@@ -1,0 +1,11 @@
+---
+layout: post
+title: This is a new post
+categories:
+- Testing
+splash: "/uploads/282850601_10159904836509757_966137849339933871_n.jpeg"
+
+---
+# Generally Testing Things.
+
+This is pretty much a test.
