@@ -11,8 +11,9 @@ layout: default
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
+
+        <img class="splash" src="{{ post.splash | relative_url }}">
       </a>
-      <img class="splash" src="{{ post.splash | relative_url }}">
       <div class="entry">
         {{ post.excerpt }}
       </div>
