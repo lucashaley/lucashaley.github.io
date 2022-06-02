@@ -10,7 +10,6 @@ categories:
 splash: "/uploads/V.M._Slipher-e1529318752226.gif"
 related:
 - _posts/2022-06-02-this-is-a-new-post.md
-- _posts/2021-04-10-the-3-9-storyboard-technique.md
 
 ---
 Known for using spectroscopy to determine the rotation of galaxies, and for being terribly cavalier with his neckties.
