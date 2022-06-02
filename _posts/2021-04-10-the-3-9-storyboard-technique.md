@@ -5,14 +5,13 @@ excerpt: A quick storyboard method for short films and animations.
 categories:
 - Animation
 - Instruction
-splash: "/uploads/Storyboard_9x_thumb.png"
+splash: "/uploads/storyboard_9x_thumb.png"
 
 ---
-
 As a teacher, I’m frequently working with students to refine their story ideas for short films and animations. I’ve found there are two consistent characteristics of students at this stage:
 
-- They have not watched enough short films to understand the format
-- Their story ideas are feature films or miniseries
+* They have not watched enough short films to understand the format
+* Their story ideas are feature films or miniseries
 
 Usually for problem 1 I send them off with a list of films to watch. For problem 2, however, it takes a little more work – dreams of extended character arcs and major set pieces are hard to let go.
 
@@ -28,14 +27,14 @@ I use 3x3 templates from the awesome <a href="https://wonderunit.com/storyboarde
 
 Then the students follow these steps:
 
-- On the first page, they board their story in 3 panels, in 3 different ways. Each row has to be *significantly* different – students can play with time (i.e. which part of the story to include) and space (i.e. framing). Sometimes I get them to do more than one set of three, especially if their story is vague.
+1. On the first page, they board their story in 3 panels, in 3 different ways. Each row has to be _significantly_ different – students can play with time (i.e. which part of the story to include) and space (i.e. framing). Sometimes I get them to do more than one set of three, especially if their story is vague.
 
-This process really forces the students to think about only the main, core beats to the story. When you’re trying to say something in &lt;2 minutes, this is **critical**. If they can’t, they should save the story for when they’re directors at Pixar and find a new one to tell now.
+> This process really forces the students to think about only the main, core beats to the story. When you’re trying to say something in <2 minutes, this is **critical**. If they can’t, they should save the story for when they’re directors at Pixar and find a new one to tell now.
 
-- Students then review their 3-panel stories, and help each other to assess the strengths of each.
-- Selecting one of the 3-panel boards, the students then take new 9-panel templates and transfer their 3 original panels into the new templates.
+1. Students then review their 3-panel stories, and help each other to assess the strengths of each.
+2. Selecting one of the 3-panel boards, the students then take new 9-panel templates and transfer their 3 original panels into the new templates.
 
-*How* they place those original panels will significantly change the pace of the film.
+_How_ they place those original panels will significantly change the pace of the film.
 
 I usually go with two initial patterns:
 
@@ -45,8 +44,8 @@ But there’s no reason you can’t challenge them to re-think their story, like
 
 <figure class="post__image"><img loading="lazy" src="https://www.lucashaley.com/media/posts/187/Storyboard_9x_200100003.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-xs.jpg 300w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-sm.jpg 480w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-md.jpg 749w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-xl.jpg 1200w" alt="Image description" width="900" height="502">
 
-- They then draw the extra panels around the original ones, filling out the story.
-- This process could be extended to larger arrays of boards, but I’ve found this is usually enough to get the students thinking about their story and the limitations of the format.
+1. They then draw the extra panels around the original ones, filling out the story.
+2. This process could be extended to larger arrays of boards, but I’ve found this is usually enough to get the students thinking about their story and the limitations of the format.
 
 If you’d like to try it, you can use the wonderful Storyboarder software or print out this PDF:
 
