@@ -6,8 +6,7 @@ categories:
 - Animation
 - Instruction
 splash: "/uploads/storyboard_9x_thumb.png"
-similar_pages:
-- _posts/2022-06-02-wellington-board-game-treasure-hunt-1.md
+similar_pages: []
 
 ---
 As a teacher, I’m frequently working with students to refine their story ideas for short films and animations. I’ve found there are two consistent characteristics of students at this stage:
