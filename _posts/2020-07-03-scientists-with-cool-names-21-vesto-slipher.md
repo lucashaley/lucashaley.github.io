@@ -8,7 +8,7 @@ categories:
 - Science
 - ScientistsWithCoolNames
 splash: "/uploads/V.M._Slipher-e1529318752226.gif"
-related_pages:
+similar_pages:
 - _posts/2022-06-02-another-test.md
 - _posts/2022-06-02-this-is-a-new-post.md
 
