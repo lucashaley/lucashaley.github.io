@@ -29,3 +29,15 @@ fields:
   config:
     maxSize: 64
   label: splash
+- name: related
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 3
+    source:
+      type: pages
+      section: jekyll-posts
+      file: 
+      path: ''
+  label: related
