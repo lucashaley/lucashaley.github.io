@@ -40,7 +40,7 @@ layout: default
     {% endif %}
     {% for similar_page in similar_pages %}
       <p>similar_page: {{ similar_page }}</p>
-      {% assign similar = site.posts | where: 'path', similar_page %}
+      {% assign similar = site.posts | where: 'path', similar_page | first %}
       <a href="{{site.baseurl}}{{ similar.url }}">Another page</a>
       <h3>Title: {{ similar.title }}</h3>
       <p>Excerpt: {{ similar.excerpt }}</p>
