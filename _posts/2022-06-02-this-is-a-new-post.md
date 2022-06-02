@@ -5,7 +5,7 @@ categories:
 - Testing
 splash: "/uploads/282850601_10159904836509757_966137849339933871_n.jpeg"
 teaser: What happens when you try a **new** thing?
-excerpt: This is an **excerpt**.
+excerpt: This is an excerpt.
 
 ---
 # Generally Testing Things.
