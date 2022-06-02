@@ -23,7 +23,7 @@ Okay, there’s a little more than that.
 
 I use 3x3 templates from the awesome <a href="https://wonderunit.com/storyboarder/">Storyboarder</a>, printing them out in batches.
 
-<figure class="post__image"><img loading="lazy" src="https://www.lucashaley.com/media/posts/187/Storyboard_9x.png" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x-xs.png 300w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x-sm.png 480w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x-md.png 749w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x-xl.png 1200w" alt="9x Template" width="1720" height="960"></figure>
+![](/uploads/Storyboard_9x.png)
 
 Then the students follow these steps:
 
@@ -38,11 +38,13 @@ _How_ they place those original panels will significantly change the pace of the
 
 I usually go with two initial patterns:
 
-<figure class="post__image"><img loading="lazy" src="https://www.lucashaley.com/media/posts/187/Storyboard_9x_100020003.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_100020003-xs.jpg 300w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_100020003-sm.jpg 480w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_100020003-md.jpg 749w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_100020003-xl.jpg 1200w" alt="100020003" width="300" height="167"></figure><figure class="post__image"><img loading="lazy" src="https://www.lucashaley.com/media/posts/187/Storyboard_9x_010020030.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_010020030-xs.jpg 300w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_010020030-sm.jpg 480w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_010020030-md.jpg 749w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_010020030-xl.jpg 1200w" alt="Image description" width="300" height="167"></figure>
+![](/uploads/Storyboard_9x_100020003.jpg)
+
+![](/uploads/Storyboard_9x_010020030.jpg)
 
 But there’s no reason you can’t challenge them to re-think their story, like so:
 
-<figure class="post__image"><img loading="lazy" src="https://www.lucashaley.com/media/posts/187/Storyboard_9x_200100003.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-xs.jpg 300w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-sm.jpg 480w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-md.jpg 749w, https://www.lucashaley.com/media/posts/187/responsive/Storyboard_9x_200100003-xl.jpg 1200w" alt="Image description" width="900" height="502">
+![](/uploads/Storyboard_9x_200100003.jpg)
 
 1. They then draw the extra panels around the original ones, filling out the story.
 2. This process could be extended to larger arrays of boards, but I’ve found this is usually enough to get the students thinking about their story and the limitations of the format.
