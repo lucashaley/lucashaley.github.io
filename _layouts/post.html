@@ -32,6 +32,7 @@ layout: default
   </div>
 
   <div class="related">
+    <div style="display: flex; justify-content: center;">
     {% if post %}
       {% assign similar_pages = post.similar_pages %}
     {% else %}
@@ -39,8 +40,11 @@ layout: default
     {% endif %}
     {% for similar_page in similar_pages %}
       {% assign similar = site.posts | where: 'path', similar_page | first %}
-      <a href="{{site.baseurl}}{{ similar.url }}">{{ similar.title }}: {{ similar.excerpt | truncate: 20 }}</a>
+        <div style="display: block;">
+          <a href="{{site.baseurl}}{{ similar.url }}">{{ similar.title }}: {{ similar.excerpt | truncate: 20 }}</a>
+        </div>
     {% endfor %}
+    </div>
   </div>
 
   <!--<div class="date">
