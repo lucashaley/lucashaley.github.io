@@ -38,7 +38,7 @@ layout: default
       {% assign related_pages = page.related_pages %}
     {% endif %}
     {% for related_page in related_pages %}
-      {% for related in site.pages | where:"path", related_page %}
+      {% for related in site.posts | where:"path", related_page %}
         <h2>{{ related.title }}</h2>
         <p>{{ related.excerpt }}</p>
       {% endfor %}
