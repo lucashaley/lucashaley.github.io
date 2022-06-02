@@ -13,4 +13,6 @@ similar_pages:
 ---
 Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died.* For you.
 
+![](/uploads/funk-xxxl.jpg)
+
 \* brown rice is better for you than white rice.
