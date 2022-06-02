@@ -41,7 +41,7 @@ layout: default
     {% endif %}
     {% for similar_page in similar_pages %}
       {% assign similar = site.posts | where: 'path', similar_page | first %}
-        <div style="display: block; width: 220px; height: 220px;">
+        <div style="display: block; width: 220px; height: 260px;">
           <a href="{{site.baseurl}}{{ similar.url }}">
             <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
             <p style="font-size: 0.8em;">{{ similar.title }}</p>
