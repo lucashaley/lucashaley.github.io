@@ -44,8 +44,8 @@ layout: default
         <div style="display: block; width: 220px; height: 220px;">
           <a href="{{site.baseurl}}{{ similar.url }}">
             <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
-            {{ similar.title }}
-            {{ similar.excerpt | truncate: 20 }}
+            <p style="font-size: 0.8em;">{{ similar.title }}</p>
+            <p style="font-size: 0.7em;">{{ similar.excerpt | truncate: 20 }}</p>
           </a>
         </div>
     {% endfor %}
