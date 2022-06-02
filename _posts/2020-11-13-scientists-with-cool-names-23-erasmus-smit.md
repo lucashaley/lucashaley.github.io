@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Scientists with Cool Names #22: Erasmus Smit'
+title: 'Scientists with Cool Names #23: Erasmus Smit'
 excerpt: Stopping Covid and taking names.
 categories:
 - Nonsense
@@ -9,6 +9,7 @@ categories:
 similar_pages:
 - _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
 - _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
+splash: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
 
 ---
 This is a special instalment of Scientists with Cool Names: this particular scientist is still alive!
@@ -19,4 +20,6 @@ He apparently goes by "Ras".
 
 Also, he's named after[ one of the most badass dudes in history](https://en.wikipedia.org/wiki/Erasmus).
 
-Please note this is a different "Erasmus Smit" than the South African pastor from the early 1800s, seen below. Ras is _way_ cooler. You can tell this Erasmus barely went by "Erasmus", let alone "Ras".
+> Please note this is a different "Erasmus Smit" than the South African pastor from the early 1800s, seen below. Ras is _way_ cooler. You can tell this Erasmus barely went by "Erasmus", let alone "Ras".
+
+![](/uploads/erasmus_smit-xl.jpg)
