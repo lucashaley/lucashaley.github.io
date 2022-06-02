@@ -32,7 +32,7 @@ layout: default
   </div>
 
   <div class="related">
-    {{ post.path }}
+    path: {{ page.path }}
     {% if post %}
       {% assign similar_pages = post.similar_pages %}
     {% else %}
