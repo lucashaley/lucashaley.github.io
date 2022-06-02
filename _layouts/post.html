@@ -40,6 +40,7 @@ layout: default
     {% for related_page in related_pages %}
       <p>related_page: {{ related_page }}</p>
       {% assign related = site.posts | where: 'path', related_page %}
+      {{ related }}
       <h3>Title: {{ related.title }}</h3>
       <p>Excerpt: {{ related.excerpt }}</p>
     {% endfor %}
