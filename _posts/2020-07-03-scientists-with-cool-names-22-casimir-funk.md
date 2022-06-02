@@ -1,14 +1,16 @@
 ---
 layout: post
 title: 'Scientists with Cool Names #22: Casimir Funk'
-excerpt: Known for using spectroscopy to determine the rotation of galaxies, and for
-  being terribly cavalier with his neckties.
+excerpt: nee Kazimierz.
 categories:
 - Nonsense
 - Science
 - ScientistsWithCoolNames
+splash: "/uploads/funk-xxxl.jpg"
+similar_pages:
+- _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
 
 ---
-Born in Poland, later *discovered vitamins*. By feeding rice to pigeons. Some of them died.* For you.
+Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died.* For you.
 
-* brown rice is better for you than white rice.
+\* brown rice is better for you than white rice.
