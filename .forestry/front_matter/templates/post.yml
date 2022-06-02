@@ -26,6 +26,10 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: false
+    source:
+      type: simple
 - name: splash
   type: file
   config:
