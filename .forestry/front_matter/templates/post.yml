@@ -12,6 +12,15 @@ fields:
 - type: text
   name: title
   label: title
+- name: teaser
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: teaser
 - type: list
   name: categories
   label: categories
