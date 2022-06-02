@@ -7,7 +7,8 @@ categories:
 - Wellington
 - Treasure Hunt
 splash: ''
-similar_pages: []
+similar_pages:
+- _posts/2021-04-10-the-3-9-storyboard-technique.md
 
 ---
 There are quite a lot of things in New Zealand that are relatively much more expensive than other places. Mainly because they have to be shipped there from overseas, but also because the population is quite small. Like, smaller than Pheonix, AZ.
