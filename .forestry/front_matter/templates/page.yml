@@ -25,4 +25,4 @@ fields:
     maxSize: 64
   label: splash
 pages:
-- about.md
+- About/about-me.md
