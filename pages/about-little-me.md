@@ -28,9 +28,9 @@ While the majority of the classes I teach are principally technical classes, it 
 ![](/uploads/cbs.jpeg)  
 I used to play bass for the mighty pirate band for buccaneers of all ages, Captain Bogg & Salty. We were together for about eleven years, playing for kids and adults, at libraries, schools, clubs, trailer parks, and malls.
 
-<iframe width="720" height="540" src="[https://www.youtube-nocookie.com/embed/zdSkDXs00xg](https://www.youtube-nocookie.com/embed/zdSkDXs00xg "https://www.youtube-nocookie.com/embed/zdSkDXs00xg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube-nocookie.com/embed/zdSkDXs00xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="720" height="540" src="[https://www.youtube-nocookie.com/embed/HkamlN_w-Zg](https://www.youtube-nocookie.com/embed/HkamlN_w-Zg "https://www.youtube-nocookie.com/embed/HkamlN_w-Zg")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="540" src="https://www.youtube-nocookie.com/embed/HkamlN_w-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In all, we released four albums. You can find them on Amazon.com and CDbaby.com.
 
