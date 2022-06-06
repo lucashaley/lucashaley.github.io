@@ -28,6 +28,8 @@ While the majority of the classes I teach are principally technical classes, it 
 ![](/uploads/cbs.jpeg)  
 I used to play bass for the mighty pirate band for buccaneers of all ages, Captain Bogg & Salty. We were together for about eleven years, playing for kids and adults, at libraries, schools, clubs, trailer parks, and malls.
 
+[zdSkDXs00xg](https://youtu.be/zdSkDXs00xg "zdSkDXs00xg")
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zdSkDXs00xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In all, we released four albums. You can find them on Amazon.com and CDbaby.com.
