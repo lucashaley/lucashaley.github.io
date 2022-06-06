@@ -30,7 +30,7 @@ I used to play bass for the mighty pirate band for buccaneers of all ages, Capta
 
 [zdSkDXs00xg](https://youtu.be/zdSkDXs00xg "zdSkDXs00xg")
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zdSkDXs00xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[HkamlN_w-Zg](https://youtu.be/HkamlN_w-Zg "HkamlN_w-Zg")
 
 In all, we released four albums. You can find them on Amazon.com and CDbaby.com.
 
