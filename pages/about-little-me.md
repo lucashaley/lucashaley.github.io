@@ -22,3 +22,19 @@ My own academic background is deeply rooted in Liberal Arts. Starting with my sc
 The classes I teach cover a wide range of experience, from absolute beginner classes all the way to leading final graduating group projects. I tailor my approach to individual classes and to the students that compromise them. My role as teacher changes: in introductory classes my approach is decidedly sophistic, questioning preconceived notions and ideas, trying to prepare the students to open their minds; in intermediate classes I focus on skillsets and practical knowledge; in the advanced classes, where students have developed a great deal of skill, my approach is trusting and exploratory.
 
 While the majority of the classes I teach are principally technical classes, it is my intention to extend the learning experience beyond the functional knowledge needed. I am able to draw upon my art history background, grounding even the most modern work in a deep historical context; my professional experience as both a programmer and an artist allows me to straddle those disciplines, bringing formal logic to art classes, and a creative flair to programming classes.
+
+## Music
+
+![](/uploads/cbs.jpeg)  
+I used to play bass for the mighty pirate band for buccaneers of all ages, Captain Bogg & Salty. We were together for about eleven years, playing for kids and adults, at libraries, schools, clubs, trailer parks, and malls.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/zdSkDXs00xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In all, we released four albums. You can find them on Amazon.com and CDbaby.com.
+
+#### Albums
+
+* [Bedtime Stories for Pirates](http://www.amazon.com/gp/product/B00003GO0I)
+* [Pegleg Tango](http://www.amazon.com/gp/product/B0007KH8F8) ("A-" from Entertainment Weekly, "Best of 2005", Amazon.com)
+* [Prelude to Mutiny](http://www.amazon.com/gp/product/B000H6SVA8)
+* [Emphatical Piratical](http://www.amazon.com/Emphatical-Piratical-Captain-Bogg-Salty/dp/B001NZ2O7S/)
