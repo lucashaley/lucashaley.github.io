@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Me
-permalink: about
+title: About Moi
 splash: ''
 
 ---
