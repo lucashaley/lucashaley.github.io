@@ -12,3 +12,8 @@ fields:
   config:
     required: false
   label: permalink
+- name: splash
+  type: file
+  config:
+    maxSize: 64
+  label: splash
