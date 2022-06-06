@@ -6,9 +6,9 @@ fields:
   type: text
   config:
     required: true
-  label: Title
+  label: title
 - name: permalink
   type: text
   config:
     required: false
-  label: Permalink
+  label: permalink
