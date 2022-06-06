@@ -6,7 +6,7 @@ categories:
 - Board Games
 - Wellington
 - Treasure Hunt
-splash: ''
+splash: "/uploads/treasure_splash.jpg"
 similar_pages: []
 
 ---
