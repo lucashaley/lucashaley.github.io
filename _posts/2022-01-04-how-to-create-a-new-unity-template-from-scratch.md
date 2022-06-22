@@ -3,12 +3,12 @@ layout: post
 title: How to create a new Unity template from scratch
 excerpt: Steps to make a new template for use in Unity Hub.
 categories:
-  - Tutorial
-  - Technical
-  - Unity
-splash: /uploads/template-xxxl.png
+- Tutorial
+- Technical
+- Unity
+splash: "/uploads/template-xxxl.png"
 similar_pages: []
-published: true
+
 ---
 I teach [Unity](http://www.unity3d.com/) a lot. Whenever I have an intro course, the first thing my students see is the default Unity project – which, to me, has some issues. So a good chunk of the first workshop is taken up with setting up the project correctly. I know I can make a sample project, and distribute that project, but there's something unsatisfying about it. I want to be able to have a good, clean template available from Unity Hub.
 
@@ -18,11 +18,11 @@ Here's how to make that template.
 
 Unity Hub templates are just Unity projects, with some edits. So the first step is to create a Unity project. Make sure you're using the version of Unity you want to make the template for.
 
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-2.45.59-PM.png =740x)
+![](/uploads/2022-01-04-unitytemplate_02.png)
 
 Next, in Unity, set up everything you want set up. In my case, I like to make the project directories, add some packages, and the like.
 
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-4.37.31-PM.png =740x918)
+![](/uploads/2022-01-04-unitytemplate_03.png)
 
 Make a note of the path to the default scene you'd like to have in the template. You'll need it later.
 
@@ -34,15 +34,15 @@ Now we'll need to turn the project into a template. I like to make a copy of the
 
 In the new copy, remove all files and directories except for `ProjectSettings`, `Packages`, and `Assets`.
 
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-4.39.04-PM.png =426x494)
+![](/uploads/2022-01-04-unitytemplate_04.png)
 
 Next, change the name of the project directory to `ProjectData~`, and put it into a new directory called `package`.
 
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-4.39.50-PM.png =410x266)
+![](/uploads/2022-01-04-unitytemplate_05.png)
 
 Add a new file to the topmost directory, and name it`package.json`.
 
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-4.41.09-PM.png =420x294)
+![](/uploads/2022-01-04-unitytemplate_06.png)
 
 The basic contents of this package looks like this:
 
@@ -80,6 +80,4 @@ where the version number changes as needed.
 
 ## In action
 
-And that's it! Check to see it in action:
-
-![](https://www.lucashaley.com/media/posts/184/Screen-Shot-2021-01-04-at-8.23.46-PM.png =740x422)
+And that's it! Check to see it in action:![](/uploads/2022-01-04-unitytemplate_01.png)
