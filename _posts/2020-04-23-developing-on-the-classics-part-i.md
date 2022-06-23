@@ -3,6 +3,7 @@ title: Developing on the Classics, Part I
 splash: "/uploads/2020-04-23-developing-splash.png"
 excerpt: On using a classic game as a basis for further development.
 categories:
+- Board Games
 - Instruction
 - Game Design
 

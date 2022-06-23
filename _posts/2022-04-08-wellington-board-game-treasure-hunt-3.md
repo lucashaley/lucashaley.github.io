@@ -3,6 +3,7 @@ layout: post
 title: 'Wellington Board Game Treasure Hunt #3'
 excerpt: Getting good
 categories:
+- Board Games
 - Treasure Hunt
 - Wellington
 splash: "/uploads/treasure_splash_03.jpg"
