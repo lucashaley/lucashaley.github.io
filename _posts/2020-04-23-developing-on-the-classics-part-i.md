@@ -16,7 +16,7 @@ This year, students looted my supply of prototyping stuff – a vault of cards, 
 
 One team grabbed the [Personal Oracle deck](https://www.etsy.com/nz/listing/246344842/the-personal-oracle), a cool deck of loaded symbols primarily used for divination. Their game revolved around memory and card-swapping.
 
-![](/uploads/2020-04-23-developing-05.jpg | width=300)![](/uploads/2020-04-23-developing-04.jpg | width=300)
+![](/uploads/2020-04-23-developing-05.jpg)![](/uploads/2020-04-23-developing-04.jpg)
 
 One team gravitated towards the hex tiles. After making a suggestion of corrolating the six sides with the three throw choices, they were off.
 
