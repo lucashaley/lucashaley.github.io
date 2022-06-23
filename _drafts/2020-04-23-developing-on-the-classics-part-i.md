@@ -1,5 +1,6 @@
 ---
 title: Developing on the Classics, Part I
+splash: "/uploads/2020-04-23-developing-splash.png"
 
 ---
 In my game development courses, I will often ask my students to take an existing game – blackjack, hopscotch, Jenga – and try to make a new game from those basic rules. It's a common exercise, and quite a good one for beginning designers, as you have a clear and well-defined game rules.
