@@ -5,7 +5,7 @@ excerpt: Stepping up a little
 categories:
 - Treasure Hunt
 - Wellington
-- Board Game
+- Board Games
 splash: "/uploads/treasure_splash_02.jpg"
 similar_pages: []
 
