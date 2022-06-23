@@ -16,6 +16,6 @@ In my hyperfocused learning, I would pull out the good bits of each magazine, an
 
 ![](/uploads/2022-06-23-binder-02.jpeg)![](/uploads/2022-06-23-binder-01.jpeg)
 
-Recently we've been packing things up, and relentlessly downsizing stuff. But what can I possibly do with this? This was my bible when I was 16. Nobody else could possibly use it.
+Recently we've been packing things up, and relentlessly downsizing stuff. But what can I possibly do with this? This was my bible when I was 16. Nobody else could possibly find it useful these days.
 
 I think it might need a viking funeral.
