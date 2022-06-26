@@ -11,4 +11,4 @@ For a group show opening in December I am creating an audio experiential game wo
 
 In researching my concept, I came across this article on [Audio as Gameplay](http://gamestudies.org/1301/articles/oldenburg_sonic_mechanics) by Aaron Oldenburg. Good stuff.
 
-Note: this project can be seen [here](/2019-01-07-aumission-the-lodge-1113.html).
+Note: this project can be seen [here](/aumission-the-lodge-1113).
