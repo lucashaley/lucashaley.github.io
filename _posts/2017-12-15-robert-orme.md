@@ -1,5 +1,11 @@
 ---
-published: false
+title: Robert Orme
+excerpt: Teaching history and philosophy through art.
+categories:
+- Art
+- Teacher
+splash: "/uploads/2017-12-15-orme-splash.jpg"
+
 ---
 <iframe loading="lazy" width="560" height="314" src="https://youtu.be/J9aHyn3U3wQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
