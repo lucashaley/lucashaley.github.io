@@ -16,6 +16,6 @@ Sometimes I find myself beating my head against a particular programming problem
 
 In this most recent incident, I've been trying to code seasonal cycles into a game, in which the various variables could be manipulated per-object, per-season, with custom seasons per-object. Don't ask. Anyways -- here I was, beating my head against modulos and switch cases for a day and a half. Then, on a rare run, I got far enough away from the computer to remember that Unity has [AnimationCurves](https://docs.unity3d.com/ScriptReference/AnimationCurve.html), which basically tick all the boxes could want. It took about 14 lines of code to get to work.
 
-![Unity AnimationCurve](https://www.lucashaley.com/media/posts/178/Curve.png =856x244)
+![](/uploads/a5472c51-8a4c-44c5-b959-9629191983e3.png)
 
 It's just a nice reminder that sometimes the best coding is done with your brain, not your fingers, away from the computer.
