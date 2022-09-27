@@ -26,3 +26,4 @@ fields:
   label: splash
 pages:
 - pages/about-little-me.md
+- pages/testimonials.md
