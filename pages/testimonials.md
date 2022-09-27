@@ -5,7 +5,7 @@ permalink: Testimonials
 splash: ''
 
 ---
-Here are some unsolicited testimonials from graduated students.
+#### Here are some unsolicited testimonials from graduated students.
 
 I just wanted to reach out and say thank you for the experience at Ai, strange as it may have been. During the Game Production class you allowed me to manage the asset lists and forum posts and such. It's exactly what I just fell into now and I absolutely love it, even if it is sometimes 80+ hours a week.Thank you!
 
@@ -77,7 +77,9 @@ Lucas Haley is an outrageous wizard of teaching. Students swarm to enroll in his
 
 ***
 
-I've had the opportunity to take three production classes taught by Lucas, and as a result I have been able to witness the immense impact he has had on the Game Art and Design program here.</p><p>Lucas has proven to be an insightful and respected mentor, and he has pushed the students here to truly take ownership of our work and delve into our specialties. This has resulted in the students in his classes leaving with higher quality portfolio work and a more thorough skill set than any of us would have had otherwise. Lucas has been an advocate for us, helping us get the tools and resources we need to do our work, and he has provided honest, constructive feedback over the course of our projects.
+I've had the opportunity to take three production classes taught by Lucas, and as a result I have been able to witness the immense impact he has had on the Game Art and Design program here.
+
+Lucas has proven to be an insightful and respected mentor, and he has pushed the students here to truly take ownership of our work and delve into our specialties. This has resulted in the students in his classes leaving with higher quality portfolio work and a more thorough skill set than any of us would have had otherwise. Lucas has been an advocate for us, helping us get the tools and resources we need to do our work, and he has provided honest, constructive feedback over the course of our projects.
 
 I can say personally that Lucas' guidance and assistance has been a key factor in enabling me to specialize in the field that I wanted to, and I am much more confident as I near graduation because of that. I would recommend him to anyone looking to fill a teaching position in a heartbeat.
 
