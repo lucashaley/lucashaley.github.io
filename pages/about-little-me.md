@@ -15,6 +15,10 @@ My research is primarily focused on exploring the meaning behind our mediated mo
 
 Since 2008 I have been teaching digital art, animation, game design and coding. It's tremendously rewarding. I've taught at the [Pacific Northwest College of Art](https://www.lucashaley.com/www.pnca.edu), the [Art Institute of Portland](https://www.lucashaley.com/www.aii.edu), and I am currently Senior Lecturer and Programme Lead at [Massey University](http://creative.massey.ac.nz/) in Wellington, New Zealand.
 
+### Testimonials
+
+Some non-solicited student testimonials can be found [here](Testimonials "Testimonials").
+
 ### Philosophy
 
 My own academic background is deeply rooted in Liberal Arts. Starting with my schooling at [Latymer Upper School](http://www.latymer-upper.org/) in England, and tempered at [Reed College](https://www.lucashaley.com/www.reed.edu) in Portland, Oregon, and capped with an MFA from [PNCA](http://www.pnca.edu/), my direct experience of education has been broad, rigorous, and holistic. It is my intention to provide that same approach in my own teaching.
