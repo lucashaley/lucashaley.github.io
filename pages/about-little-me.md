@@ -13,7 +13,7 @@ My research is primarily focused on exploring the meaning behind our mediated mo
 
 ### Background
 
-Over the last eight years I have been teaching digital art, animation, game design and coding. It's tremendously rewarding. I've taught at the [Pacific Northwest College of Art](https://www.lucashaley.com/www.pnca.edu), the [Art Institute of Portland](https://www.lucashaley.com/www.aii.edu), and I am currently Senior Lecturer and Programme Lead at [Massey University](http://creative.massey.ac.nz/) in Wellington, New Zealand.
+Since 2008 I have been teaching digital art, animation, game design and coding. It's tremendously rewarding. I've taught at the [Pacific Northwest College of Art](https://www.lucashaley.com/www.pnca.edu), the [Art Institute of Portland](https://www.lucashaley.com/www.aii.edu), and I am currently Senior Lecturer and Programme Lead at [Massey University](http://creative.massey.ac.nz/) in Wellington, New Zealand.
 
 ### Philosophy
 
