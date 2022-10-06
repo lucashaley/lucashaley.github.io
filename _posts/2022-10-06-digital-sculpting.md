@@ -30,3 +30,5 @@ I didn’t quite know how to approach eyebrows and hair, so I just gave it a go.
 In all, I’m super excited about doing more digital sculpting with Nomad. It’s a solid piece of software — I have to figure out more texturing and retopologizing, though! It has to be a mess in there.
 
 ![](/uploads/43e0a652-33c6-4595-94f9-1258dfff4889.jpeg)
+
+[033XdaH](https://imgur.com/a/033XdaH "033XdaH")
