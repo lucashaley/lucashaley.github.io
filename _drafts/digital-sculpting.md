@@ -15,4 +15,7 @@ Recently, however, I decided to give Nomad Sculpt on iOS a go. And _wow_, it’s
 
 Starting with a sphere, I just poked around a bit. A guy’s head? Let’s go with that.
 
-![](/uploads/0d22cdd7-f57d-491e-b457-c9423b673dcb.jpeg)
+![](/uploads/0d22cdd7-f57d-491e-b457-c9423b673dcb.jpeg)  
+After some time I clearly had to figure out retopologizing, but from then I was able to refine some more.
+
+![](/uploads/47bd28a0-eba7-4a8e-8f58-0bdb7cbebf17.jpeg)
