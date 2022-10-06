@@ -23,9 +23,9 @@ Then I made the mistake of posting it on socials. A mistake? Because I did the s
 
 ![](/uploads/9c3dbbff-3122-410c-8c95-1df047fa2d70.jpeg)
 
-I didn’t quite know how to approach eyebrows and hair, so I just gave it a go. It’s not great, but it’ll do. 
+I didn’t quite know how to approach eyebrows and hair, so I just gave it a go. It’s not great, but it’ll do. For some reason, his hair made him look French to me.
 
-Lastly, I wanted a little bit more dynamism and asymmetry, so a little twist in the neck was on deck.
+Lastly, I wanted a little bit more dynamism and asymmetry, so a little twist in the neck, and a raise of one eyebrow. I tried adding the little loose flesh of the eyelid being pulled up.
 
 ![](/uploads/8d5c678d-3598-4e73-a1a9-09305781947f.jpeg)![](/uploads/9f0f410c-c0d6-4e6a-bb52-cfda044538d8.jpeg)
 
