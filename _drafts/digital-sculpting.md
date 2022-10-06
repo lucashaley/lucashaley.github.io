@@ -18,4 +18,9 @@ Starting with a sphere, I just poked around a bit. A guy’s head? Let’s go wi
 ![](/uploads/0d22cdd7-f57d-491e-b457-c9423b673dcb.jpeg)  
 After some time I clearly had to figure out retopologizing, but from then I was able to refine some more.
 
-![](/uploads/47bd28a0-eba7-4a8e-8f58-0bdb7cbebf17.jpeg)
+![](/uploads/47bd28a0-eba7-4a8e-8f58-0bdb7cbebf17.jpeg)  
+Then I made the mistake of posting it on socials. A mistake? Because I did the same thing I’ve seen so many students do — ignore the ears. Ugh! So, ears.
+
+I didn’t quite know how to approach eyebrows and hair, so I just gave it a go. It’s not great, but it’ll do. Lastly, I wanted a little bit more dynamism and asymmetry, so a little twist in the neck was on deck.
+
+In all, I’m super excited about doing more digital sculpting with Nomad. It’s a solid piece of software — I have to figure out more texturing and retopologizing, though! It has to be a mess in there.
