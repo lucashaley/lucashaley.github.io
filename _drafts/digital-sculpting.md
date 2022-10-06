@@ -21,6 +21,12 @@ After some time I clearly had to figure out retopologizing, but from then I was 
 ![](/uploads/47bd28a0-eba7-4a8e-8f58-0bdb7cbebf17.jpeg)  
 Then I made the mistake of posting it on socials. A mistake? Because I did the same thing I’ve seen so many students do — ignore the ears. Ugh! So, ears.
 
+![](/uploads/9c3dbbff-3122-410c-8c95-1df047fa2d70.jpeg)
+
 I didn’t quite know how to approach eyebrows and hair, so I just gave it a go. It’s not great, but it’ll do. Lastly, I wanted a little bit more dynamism and asymmetry, so a little twist in the neck was on deck.
 
+![](/uploads/8d5c678d-3598-4e73-a1a9-09305781947f.jpeg)![](/uploads/9f0f410c-c0d6-4e6a-bb52-cfda044538d8.jpeg)
+
 In all, I’m super excited about doing more digital sculpting with Nomad. It’s a solid piece of software — I have to figure out more texturing and retopologizing, though! It has to be a mess in there.
+
+![](/uploads/43e0a652-33c6-4595-94f9-1258dfff4889.jpeg)
