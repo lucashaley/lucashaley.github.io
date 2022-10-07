@@ -12,7 +12,7 @@ similar_pages:
 ---
 So I’ve been working on a mobile location-based game for about 3/4 of a year now, and thought I should share more details.
 
-[![turf](/uploads/turf.mp4)]
+[![turf](/uploads/turf.mp4)](/uploads/turf.mp4)
 
 <video>
   <source src="/uploads/turf.mp4">
