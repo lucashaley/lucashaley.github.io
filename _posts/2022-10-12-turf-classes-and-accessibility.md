@@ -35,3 +35,5 @@ Hopefully you can see how these classes and extra abilities help soften the imba
 ### System UI
 
 It was also important to me to use system UI as much as possible. That way I could get the most built-in support for voice commands and other accessibility features.
+
+Visually, I'm trying to keep the UI clean, with high contrast, and large, easily readable text. Because for this game, I can. So that's good.
