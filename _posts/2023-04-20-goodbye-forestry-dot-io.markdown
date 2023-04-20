@@ -9,7 +9,7 @@ excerpt: Time to change again.
 splash: "/images/"
 splash_image: "/uploads/forestry.jpeg"
 posts:
-- The Music File
+- Turf! Classes and Accessibility
 - Digital Sculpting
 layout: post
 ---
