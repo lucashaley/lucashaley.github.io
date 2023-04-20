@@ -9,6 +9,7 @@ splash_image:
 posts:
 - The Music File
 - Digital Sculpting
+layout: post
 ---
 
 So once again I need to migrate this site, as Forestry.io is closing down.
