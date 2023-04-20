@@ -4,6 +4,8 @@ date: 2023-04-20 11:00:00 -07:00
 tags:
 - test
 excerpt: Time to change again.
+splash: "/images/"
+splash_image: 
 ---
 
 So once again I need to migrate this site, as Forestry.io is closing down.
