@@ -51,6 +51,27 @@ layout: default
     {% endfor %}
     </div>
   </div>
+  
+  <div class="related">
+    <h3>Related Posts</h3>
+    <div style="display: flex; justify-content: center;">
+    {% if post %}
+      {% assign similar_posts = post.posts %}
+    {% else %}
+      {% assign similar_pages = page.pages %}
+    {% endif %}
+    {% for similar_post in similar_posts %}
+      {% assign similar = site.posts | where: 'path', similar_post | first %}
+        <div style="display: block; width: 220px; height: 260px;">
+          <a href="{{site.baseurl}}{{ similar.url }}">
+            <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
+            <p style="font-size: 0.8em;">{{ similar.title }}</p>
+            <p style="font-size: 0.7em;">{{ similar.excerpt | truncate: 20 }}</p>
+          </a>
+        </div>
+    {% endfor %}
+    </div>
+  </div>
 
   <!--<div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
