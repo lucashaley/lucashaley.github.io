@@ -16,4 +16,4 @@ layout: post
 
 So once again I need to migrate this site, as Forestry.io is closing down.
 
-I'm trying SiteLeaf.com right now. This is a test.
+I'm trying SiteLeaf.com right now. This is a test. man
