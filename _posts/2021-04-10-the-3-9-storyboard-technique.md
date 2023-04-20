@@ -1,15 +1,16 @@
 ---
-layout: post
 title: The 3 - 9 Storyboard Technique
-excerpt: A quick storyboard method for short films and animations.
+date: 2021-04-10 00:00:00 Z
 categories:
 - Animation
 - Instruction
+layout: post
+excerpt: A quick storyboard method for short films and animations.
 splash: "/uploads/storyboard_9x_thumb.png"
 similar_pages:
 - _posts/2022-06-02-wellington-board-game-treasure-hunt-1.md
-
 ---
+
 As a teacher, I’m frequently working with students to refine their story ideas for short films and animations. I’ve found there are two consistent characteristics of students at this stage:
 
 * They have not watched enough short films to understand the format

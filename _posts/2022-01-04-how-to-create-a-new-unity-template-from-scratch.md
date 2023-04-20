@@ -1,15 +1,16 @@
 ---
-layout: post
 title: How to create a new Unity template from scratch
-excerpt: Steps to make a new template for use in Unity Hub.
+date: 2022-01-04 00:00:00 Z
 categories:
 - Tutorial
 - Technical
 - Unity
+layout: post
+excerpt: Steps to make a new template for use in Unity Hub.
 splash: "/uploads/template-xxxl.png"
 similar_pages: []
-
 ---
+
 I teach [Unity](http://www.unity3d.com/) a lot. Whenever I have an intro course, the first thing my students see is the default Unity project – which, to me, has some issues. So a good chunk of the first workshop is taken up with setting up the project correctly. I know I can make a sample project, and distribute that project, but there's something unsatisfying about it. I want to be able to have a good, clean template available from Unity Hub.
 
 Here's how to make that template.

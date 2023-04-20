@@ -1,15 +1,16 @@
 ---
-layout: post
 title: Turf! Classes and Accessibility
-excerpt: A mobile game with mobility
+date: 2022-10-12 00:00:00 Z
 categories:
 - Accessibility
 - Programming
+layout: post
+excerpt: A mobile game with mobility
 splash: "/uploads/screen-shot-2022-10-11-at-5-42-07-pm.png"
 similar_pages:
 - _posts/2022-10-07-turf.md
-
 ---
+
 One of the first points of interest that came up when designing Turf! was how, as a mobile game that requires movement in physical space, it would be designed so that most people would be able to use it.
 
 Again, the premise is that real people run around real space, and using the game, place virtual markers at real locations which create virtual territory, overlaid on real space. The highest aggregated rate of territory wins.

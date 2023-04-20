@@ -1,15 +1,16 @@
 ---
-title: 'Aumission, The Lodge'
-excerpt: Audio landscape narrative gallery installation
+title: Aumission, The Lodge
+date: 2013-11-13 00:00:00 Z
 categories:
-  - Audio
-  - Game Design
-  - Art
-splash: /uploads/2019-01-07-aumission-splash.jpg
+- Audio
+- Game Design
+- Art
+excerpt: Audio landscape narrative gallery installation
+splash: "/uploads/2019-01-07-aumission-splash.jpg"
 similar_pages:
-  - _posts/2018-06-19-audio-as-gameplay.md
-published: true
+- _posts/2018-06-19-audio-as-gameplay.md
 ---
+
 ![](/uploads/2019-01-07-aumission-01.jpg)
 
 Installation • The Lodge Gallery, Portland November 2013.

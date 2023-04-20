@@ -1,17 +1,18 @@
 ---
-layout: post
 title: 'Scientists with Cool Names #23: Erasmus Smit'
-excerpt: Stopping Covid and taking names.
+date: 2020-11-13 00:00:00 Z
 categories:
 - Nonsense
 - Science
 - ScientistsWithCoolNames
+layout: post
+excerpt: Stopping Covid and taking names.
 similar_pages:
 - _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
 - _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
 splash: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
-
 ---
+
 This is a special instalment of Scientists with Cool Names: this particular scientist is still alive!
 
 Dr. Erasmus Smit is New Zealand's only clinical virologist. Which, as you can imagine, has kept him pretty busy in 2020. He's on the COVID-19 Technical Advisory Group for the Ministry of Health, in charge of the testing for Covid-19 in the country.

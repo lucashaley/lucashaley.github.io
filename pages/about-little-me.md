@@ -1,10 +1,10 @@
 ---
-layout: page
 title: About Me
 permalink: about
+layout: page
 splash: ''
-
 ---
+
 ## Research
 
 My research is primarily focused on exploring the meaning behind our mediated modern lives through the technology that increasingly defines us. My work uses bleeding-edge tech to explore how we can maintain our humanity and social connections in spite of that same technology.

@@ -1,12 +1,13 @@
 ---
 title: Robert Orme
-excerpt: Teaching history and philosophy through art.
+date: 2017-12-15 00:00:00 Z
 categories:
 - Art
 - Teacher
+excerpt: Teaching history and philosophy through art.
 splash: "/uploads/2017-12-15-orme-splash.jpg"
-
 ---
+
 <iframe loading="lazy" width="560" height="314" src="https://youtu.be/J9aHyn3U3wQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 Robert Orme was my Art History teacher in high school. I was the only person in my year who wanted to take the subject, but he was willing to tutor me one-on-one.

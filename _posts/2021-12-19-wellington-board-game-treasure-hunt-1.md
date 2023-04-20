@@ -1,15 +1,16 @@
 ---
-layout: post
 title: 'Wellington Board Game Treasure Hunt #1'
-excerpt: Because I'm too lazy to ship
+date: 2021-12-19 00:00:00 Z
 categories:
 - Board Games
 - Wellington
 - Treasure Hunt
+layout: post
+excerpt: Because I'm too lazy to ship
 splash: "/uploads/treasure_splash.jpg"
 similar_pages: []
-
 ---
+
 There are quite a lot of things in New Zealand that are relatively much more expensive than other places. Mainly because they have to be shipped there from overseas, but also because the population is quite small. Like, smaller than Pheonix, AZ.
 
 One of those things are board games. They can be almost twice as much as back in the USA, and that can be quite prohibitive. So there's quite a robust resale market, mostly on Facebook.
