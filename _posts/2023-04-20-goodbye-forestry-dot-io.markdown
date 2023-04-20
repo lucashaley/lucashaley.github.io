@@ -6,6 +6,8 @@ tags:
 excerpt: Time to change again.
 splash: "/images/"
 splash_image: 
+posts:
+- 
 ---
 
 So once again I need to migrate this site, as Forestry.io is closing down.
