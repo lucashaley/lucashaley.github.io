@@ -1,14 +1,16 @@
 ---
 title: 'Wellington Board Game Treasure Hunt #1'
-date: 2021-12-19 00:00:00 Z
+date: 2021-12-18 16:00:00 -08:00
 categories:
 - Board Games
 - Wellington
 - Treasure Hunt
-layout: post
 excerpt: Because I'm too lazy to ship
 splash: "/uploads/treasure_splash.jpg"
-similar_pages: []
+posts:
+- 'Wellington Board Game Treasure Hunt #2'
+- 'Wellington Board Game Treasure Hunt #3'
+layout: post
 ---
 
 There are quite a lot of things in New Zealand that are relatively much more expensive than other places. Mainly because they have to be shipped there from overseas, but also because the population is quite small. Like, smaller than Pheonix, AZ.
