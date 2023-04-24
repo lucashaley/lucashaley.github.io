@@ -45,12 +45,13 @@ layout: default
           <a href="{{site.baseurl}}{{ similar.url }}">
             <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
             <p style="font-size: 0.8em;">{{ similar.title }}</p>
-            <p style="font-size: 0.7em;">{{ similar.excerpt | truncate: 20 }}</p>
           </a>
         </div>
     {% endfor %}
     </div>
   </div>
+  
+  <hr />
   
   <div class="related">
     <h3>Related Posts SiteLeaf</h3>
@@ -63,18 +64,19 @@ layout: default
     {% for similar_post in similar_posts %}
       {% assign similar = site.posts | where: 'title', similar_post | first %}
         <div style="display: block; width: 220px; height: 260px;">
+          {{ similar | inspect }}
           <a href="{{site.baseurl}}{{ similar.url }}">
             <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
             <p style="font-size: 0.8em;">{{ similar.title }}</p>
-            <p style="font-size: 0.7em;">{{ similar.excerpt | truncate: 20 }}</p>
           </a>
         </div>
     {% endfor %}
     </div>
   </div>
+  
   <hr />
   <div>
-  {{ page.posts }}
+    {{ page.posts | inspect }}
   </div>
 
   <!--<div class="date">
