@@ -1,12 +1,11 @@
 ---
 title: The Music File
-date: 2022-06-23 00:00:00 Z
+date: 2022-06-22 17:00:00 -07:00
 categories:
 - Music
-layout: post
 excerpt: What can I possibly do with this
-splash: "/uploads/2022-06-23-binder-splash.jpeg"
-similar_pages: []
+splash_image: "/uploads/2022-06-23-binder-splash.jpeg"
+layout: post
 ---
 
 I got my first guitar when I was about 14 or 15. At the time I was living in London, UK, and didn't have that close of a social circle. I didn't really go out, and I got quite focused on learning to play guitar.
