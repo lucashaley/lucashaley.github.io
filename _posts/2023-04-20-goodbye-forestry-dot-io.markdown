@@ -7,8 +7,6 @@ tags:
 - test
 excerpt: Time to change again.
 splash_image: "/uploads/forestry.jpeg"
-posts:
-- 
 layout: post
 ---
 
