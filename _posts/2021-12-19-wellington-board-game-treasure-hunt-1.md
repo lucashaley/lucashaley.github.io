@@ -6,7 +6,7 @@ categories:
 - Wellington
 - Treasure Hunt
 excerpt: Because I'm too lazy to ship
-splash: "/uploads/treasure_splash.jpg"
+splash_image: "/uploads/treasure_splash.jpg"
 posts:
 - 'Wellington Board Game Treasure Hunt #2'
 - 'Wellington Board Game Treasure Hunt #3'
