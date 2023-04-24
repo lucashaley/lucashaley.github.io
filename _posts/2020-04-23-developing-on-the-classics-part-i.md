@@ -1,11 +1,11 @@
 ---
 title: Developing on the Classics, Part I
-date: 2020-04-23 00:00:00 Z
+date: 2020-04-22 17:00:00 -07:00
 categories:
 - Board Games
 - Instruction
 - Game Design
-splash: "/uploads/2020-04-23-developing-splash.png"
+splash_image: "/uploads/2020-04-23-developing-splash.png"
 excerpt: On using a classic game as a basis for further development.
 ---
 
