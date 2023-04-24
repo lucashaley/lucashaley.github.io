@@ -1,6 +1,6 @@
 ---
 title: 'Scientists with Cool Names #25: Homer Clyde Snook'
-date: 2022-11-19 00:00:00 Z
+date: 2022-11-18 16:00:00 -08:00
 categories:
 - ScientistsWithCoolNames
 - Science
@@ -11,6 +11,10 @@ similar_pages:
 - _posts/2021-01-11-scientists-with-cool-names-24-dr-ngaio-beausoleil.md
 - _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
 - _posts/2020-11-13-scientists-with-cool-names-23-erasmus-smit.md
+posts:
+- 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
+- 'Scientists with Cool Names #22: Casimir Funk'
+- 'Scientists with Cool Names #22: Casimir Funk'
 ---
 
 So I couldn't find an image that I could confirm was Homer Clyde Snook, which is a shame.
