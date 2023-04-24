@@ -1,14 +1,14 @@
 ---
 title: By Other Means
-date: 2020-04-26 00:00:00 Z
+date: 2020-04-25 17:00:00 -07:00
 categories:
 - Frustration
 - Programming
-layout: post
 excerpt: Code with your brain, not your fingers
-splash: "/uploads/8577ce92-fbd3-4770-a070-8e2ada58c164.png"
-similar_pages:
+splash_image: "/uploads/8577ce92-fbd3-4770-a070-8e2ada58c164.png"
+posts:
 - _posts/2022-01-04-how-to-create-a-new-unity-template-from-scratch.md
+layout: post
 ---
 
 Sometimes I find myself beating my head against a particular programming problem, trying to force the code, and inevitably it means I'm not thinking in the right way about it. It's like the Blaise Pascal quote:
