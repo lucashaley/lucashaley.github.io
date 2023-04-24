@@ -7,6 +7,7 @@ categories:
 - Nonsense
 excerpt: The SNOOK APPARATUS
 splash: "/uploads/snook-hydrogen-tube.jpg"
+splash_image: "/uploads/snook-hydrogen-tube.jpg"
 posts:
 - 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
 - 'Scientists with Cool Names #23: Erasmus Smit'
