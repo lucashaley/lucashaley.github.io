@@ -5,7 +5,9 @@ categories:
 - Animation
 - Instruction
 excerpt: A quick storyboard method for short films and animations.
-splash: "/uploads/storyboard_9x_thumb.png"
+splash_image: "/uploads/storyboard_9x_thumb.png"
+posts:
+- 
 layout: post
 ---
 
