@@ -1,11 +1,11 @@
 ---
 title: Board Game Development 2
-date: 2018-06-19 00:00:00 Z
+date: 2018-06-18 17:00:00 -07:00
 categories:
 - Instruction
 - Board Games
 excerpt: Suddenly teaching board game design
-similar_pages:
+posts:
 - _posts/2020-04-23-developing-on-the-classics-part-i.md
 ---
 
