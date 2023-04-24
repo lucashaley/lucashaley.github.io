@@ -58,12 +58,8 @@ layout: default
     <div style="display: flex; justify-content: center;">
     {% assign similar_posts = page.posts %}
     {% for similar_post in similar_posts %}
-      <h5>Similar Post: {{ similar_post }}</h5>
-      <h5>URL: {{ similar_post.url }}</h5>
-      <hr />
       {% assign similar = site.posts | where: "title", similar_post | first %}
         <div style="display: block; width: 220px; height: 260px;">
-          {{ similar.url | inspect }}
           <a href="{{site.baseurl}}{{ similar.url }}">
             <img style="width: 220px; height: 220px;" src="{{ similar.splash | relative_url }}">
             <p style="font-size: 0.8em;">{{ similar.title }}</p>
@@ -71,17 +67,6 @@ layout: default
         </div>
     {% endfor %}
     </div>
-  </div>
-  
-  <hr />
-  <div>
-    <h4>page.posts</h4>
-    {{ page.posts | inspect }}
-  </div>
-  <hr />
-  <div>
-    <h4>post.posts</h4>
-    {{ post.posts | inspect }}
   </div>
 
   <!--<div class="date">
