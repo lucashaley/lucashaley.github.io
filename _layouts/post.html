@@ -57,7 +57,7 @@ layout: default
     <h3>Related Posts SiteLeaf</h3>
     <div style="display: flex; justify-content: center;">
     {% if post %}
-      {% assign similar_posts = page.posts %}
+      {% assign similar_posts = post.posts %}
     {% else %}
       {% assign similar_pages = page.pages %}
     {% endif %}
@@ -78,6 +78,10 @@ layout: default
   <hr />
   <div>
     {{ page.posts | inspect }}
+  </div>
+  <hr />
+  <div>
+    {{ post.posts | inspect }}
   </div>
 
   <!--<div class="date">
