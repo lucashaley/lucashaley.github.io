@@ -1,16 +1,16 @@
 ---
 title: 'Scientists with Cool Names #23: Erasmus Smit'
-date: 2020-11-13 00:00:00 Z
+date: 2020-11-12 16:00:00 -08:00
 categories:
 - Nonsense
 - Science
 - ScientistsWithCoolNames
-layout: post
 excerpt: Stopping Covid and taking names.
-similar_pages:
+posts:
 - _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
 - _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
-splash: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
+splash_image: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
+layout: post
 ---
 
 This is a special instalment of Scientists with Cool Names: this particular scientist is still alive!
