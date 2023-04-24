@@ -6,6 +6,8 @@ categories:
 - Review
 excerpt: Is your logic as strong as our logic?
 splash_image: "/uploads/2020-07-02-shipwrecksplash.png"
+posts:
+- 
 layout: post
 ---
 
