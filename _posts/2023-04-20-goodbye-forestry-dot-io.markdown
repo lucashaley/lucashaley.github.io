@@ -9,8 +9,7 @@ excerpt: Time to change again.
 splash: "/images/"
 splash_image: "/uploads/forestry.jpeg"
 posts:
-- Turf! Classes and Accessibility
-- Digital Sculpting
+- Christmas Linocuts
 layout: post
 ---
 
