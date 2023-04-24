@@ -1,11 +1,11 @@
 ---
 title: Robert Orme
-date: 2017-12-15 00:00:00 Z
+date: 2017-12-14 16:00:00 -08:00
 categories:
 - Art
 - Teacher
 excerpt: Teaching history and philosophy through art.
-splash: "/uploads/2017-12-15-orme-splash.jpg"
+splash_image: "/uploads/2017-12-15-orme-splash.jpg"
 ---
 
 <iframe loading="lazy" width="560" height="314" src="https://youtu.be/J9aHyn3U3wQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
