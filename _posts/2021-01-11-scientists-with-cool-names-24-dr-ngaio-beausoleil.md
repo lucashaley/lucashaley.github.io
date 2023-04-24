@@ -1,6 +1,6 @@
 ---
 title: 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
-date: 2021-01-11 00:00:00 Z
+date: 2021-01-10 16:00:00 -08:00
 categories:
 - Sheep
 - New Zealand
@@ -9,11 +9,11 @@ categories:
 - Science
 - Nonsense
 excerpt: I mean really, just look at that name.
-splash: "/uploads/2021-01-11-scientists-splash.jpg"
-similar_pages:
-- _posts/2020-07-03-scientists-with-cool-names-21-vesto-slipher.md
-- _posts/2020-09-09-scientists-with-cool-names-22-casimir-funk.md
-- _posts/2020-11-13-scientists-with-cool-names-23-erasmus-smit.md
+splash_image: "/uploads/2021-01-11-scientists-splash.jpg"
+posts:
+- 'Scientists with Cool Names #21: Vesto Slipher'
+- 'Scientists with Cool Names #22: Casimir Funk'
+- 'Scientists with Cool Names #23: Erasmus Smit'
 ---
 
 I think one of the interesting side effects of being in New Zealand during Covid-19 is that people are looking closer to home for everything – at least in Aotearoa, where we're in a small Covid-free bubble of our own. So here's another homegrown scientist!
