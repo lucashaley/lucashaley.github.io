@@ -408,6 +408,13 @@ nav {
   width: 100%;
 }
 
+.related_image
+{
+  object-fit: cover;
+  height: 220px;
+  width: 220px;
+}
+
 .wrapper-container {
   min-height: 100%;
   position: relative;
