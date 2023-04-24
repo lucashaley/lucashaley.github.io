@@ -13,7 +13,7 @@ similar_pages:
 - _posts/2020-11-13-scientists-with-cool-names-23-erasmus-smit.md
 posts:
 - 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
-- 'Scientists with Cool Names #22: Casimir Funk'
+- 'Scientists with Cool Names #23: Erasmus Smit'
 - 'Scientists with Cool Names #22: Casimir Funk'
 ---
 
