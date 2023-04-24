@@ -56,13 +56,9 @@ layout: default
   <div class="related">
     <h3>Related Posts SiteLeaf</h3>
     <div style="display: flex; justify-content: center;">
-    {% if post %}
-      {% assign similar_posts = page.posts %}
-    {% else %}
-      {% assign similar_pages = page.pages %}
-    {% endif %}
+    {% assign similar_posts = page.posts %}
     {% for similar_post in similar_posts %}
-      Similar Post: {{ similar_post }} <br />
+      <h5>Similar Post: {{ similar_post }}</h5>
       {% assign similar = site.posts | where: "title", similar_post | first %}
         <div style="display: block; width: 220px; height: 260px;">
           {{ similar | inspect }}
