@@ -6,7 +6,6 @@ categories:
 tags:
 - test
 excerpt: Time to change again.
-splash: "/images/"
 splash_image: "/uploads/forestry.jpeg"
 posts:
 - 
