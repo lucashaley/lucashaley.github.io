@@ -7,7 +7,7 @@ categories:
 excerpt: Code with your brain, not your fingers
 splash_image: "/uploads/8577ce92-fbd3-4770-a070-8e2ada58c164.png"
 posts:
-- _posts/2022-01-04-how-to-create-a-new-unity-template-from-scratch.md
+- How to create a new Unity template from scratch
 layout: post
 ---
 
