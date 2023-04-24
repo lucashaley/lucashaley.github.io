@@ -57,7 +57,7 @@ layout: default
     <h3>Related Posts SiteLeaf</h3>
     <div style="display: flex; justify-content: center;">
     {% if post %}
-      {% assign similar_posts = post.posts %}
+      {% assign similar_posts = page.posts %}
     {% else %}
       {% assign similar_pages = page.pages %}
     {% endif %}
