@@ -1,0 +1,7 @@
+---
+title: Big Nerd
+date: 2018-06-19 12:36:00 -07:00
+excerpt: Big nerds.
+---
+
+Related to the prior post, I've also just got my grubby hands on the [Big Nerd Ranch](http://www.bignerdranch.com) _iOS Programming Guide_. I can't wait to see how Hillegass and Conway convey the info. As an instructor myself, I've always had great respect for their ways. I still have their first Cocoa book. Ahhh, good times.
