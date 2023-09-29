@@ -11,3 +11,6 @@ splash_image: "/uploads/fantasy_cartography.png"
 [Here Be Cartographers: Reading the Fantasy Map](http://www.nicholastam.ca/2011/04/18/here-be-cartographers-reading-the-fantasy-map/)
 
 Really, you don't get web articles better than this.
+
+### Update 2023
+Looks like the article isn't linking anymore. Thank you, Wayback Machine, for [this archive](https://web.archive.org/web/20161011223017/http://www.nicholastam.ca/2011/04/18/here-be-cartographers-reading-the-fantasy-map/).
