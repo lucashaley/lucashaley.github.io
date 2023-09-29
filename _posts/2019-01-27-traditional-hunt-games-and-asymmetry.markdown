@@ -1,6 +1,6 @@
 ---
 title: Traditional Hunt Games and Asymmetry
-date: 2023-09-29 11:16:00 -07:00
+date: 2019-01-27 11:16:00 -08:00
 published: false
 tags:
 - Board Games
