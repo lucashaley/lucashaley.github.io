@@ -3,6 +3,8 @@ title: Tom Wham
 date: 2019-01-27 11:47:00 -08:00
 tags:
 - Board Games
+splash_image: "/uploads/Snits_01.jpg"
+excerpt: Early gaming memories and asymmetry
 ---
 
 The earliest memory I have of playing board games isn't with Monopoly or Chutes and Ladders. It's with Snit's Revenge. I have no idea how we got this game – whether my parents were somehow possessed to get this bizarre game, or one of my older brothers picked it up – but I have <em>distinct</em> memories of it. I mean, how could you not? Look at this board:
