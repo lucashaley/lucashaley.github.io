@@ -22,7 +22,7 @@ I was also reminded of the French Military Game. Which is a terrible title for a
 
 ![martin-gardner.png](/uploads/martin-gardner.png)
 
-The FMG is asymmetric with number of player pieces, player movement, and player goal\[^1\]: The three white pieces can move sideways, forward, or diagonally forward; the single black piece can move in any direction. The white pieces want to trap the black so that it cannot move, and the black piece wants to get past the white (which cannot move backward).
+The FMG is asymmetric with number of player pieces, player movement, and player goal[^1]: The three white pieces can move sideways, forward, or diagonally forward; the single black piece can move in any direction. The white pieces want to trap the black so that it cannot move, and the black piece wants to get past the white (which cannot move backward).
 
 The FMG sits in the set of "Hunt Games", where one player is hunting the other. By their nature, hunt games are asymmetric in at least one way. Other traditional hunt games include:
 
@@ -32,4 +32,4 @@ The FMG sits in the set of "Hunt Games", where one player is hunting the other. 
 
 I'm still on the fence as to whether I would consider hnefatafl a hunt game. But that's just semantics – it's still asymmetric in player movement and number of player pieces. But hnefatafl deserves a whole post unto itself really.
 
-\[^1\]: Not so sure about asymmetric goal in this game. It's more of a mirrored goal.
+[^1]: Not so sure about asymmetric goal in this game. It's more of a mirrored goal.
