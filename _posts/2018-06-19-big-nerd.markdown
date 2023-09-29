@@ -1,6 +1,9 @@
 ---
 title: Big Nerd
 date: 2018-06-19 12:36:00 -07:00
+tags:
+- Books
+- Programming
 excerpt: Big nerds.
 ---
 
