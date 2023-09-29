@@ -1,11 +1,10 @@
 ---
 title: Traditional Hunt Games and Asymmetry
 date: 2019-01-27 11:16:00 -08:00
-published: false
 tags:
 - Board Games
 excerpt: More meaderings about asymmetry
-splash_image: 
+splash_image: "/uploads/french-game.jpg"
 layout: default
 ---
 
@@ -21,7 +20,7 @@ It's another list in my array of Field Notes books. I'll type it up when it's mo
 
 I was also reminded of the French Military Game. Which is a terrible title for a game, but there we are. It was a game popular with the French Military in the 19th century, more recently written about my the amazing [Martin Gardner](https://en.wikipedia.org/wiki/Martin_Gardner) in Martin Gardner's Sixth Book of Mathematical Games from Scientific American.
 
-<figure class="post__image--center"><img loading="lazy" src="https://www.lucashaley.com/media/posts/168/IMG_6884.png"></figure>
+![martin-gardner.png](/uploads/martin-gardner.png)
 
 The FMG is asymmetric with number of player pieces, player movement, and player goal\[^1\]: The three white pieces can move sideways, forward, or diagonally forward; the single black piece can move in any direction. The white pieces want to trap the black so that it cannot move, and the black piece wants to get past the white (which cannot move backward).
 
