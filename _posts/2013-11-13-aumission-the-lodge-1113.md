@@ -4,7 +4,7 @@ date: 2013-11-12 16:00:00 -08:00
 categories:
 - Audio
 - Game Design
-- Art
+- Artwork
 excerpt: Audio landscape narrative gallery installation
 splash_image: "/uploads/2019-01-07-aumission-splash.jpg"
 posts:
