@@ -3,7 +3,6 @@ title: Beyond Erotic, Future Forward, October 2014
 date: 2014-10-31 16:54:00 -07:00
 categories:
 - Artwork
-- Art
 tags:
 - Art
 - Cellphones
