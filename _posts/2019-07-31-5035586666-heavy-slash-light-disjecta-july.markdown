@@ -2,7 +2,7 @@
 title: 5035586666, Heavy/Light, Disjecta July
 date: 2019-07-31 13:57:00 -07:00
 categories:
-- Art
+- Artwork
 tags:
 - Artwork
 - Interactive
