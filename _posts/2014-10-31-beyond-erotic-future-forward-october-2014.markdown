@@ -8,6 +8,8 @@ tags:
 - Art
 - Cellphones
 - Sex
+splash_image: "/uploads/IMG_1516-e1414797557422-300x225.jpg"
+excerpt: Erotic telephone numbers. Except, not.
 ---
 
 This summer I was contacted to participate in a group show, called "Beyond Erotic". The show description read:
