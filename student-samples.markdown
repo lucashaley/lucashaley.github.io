@@ -7,6 +7,14 @@ date: 2023-12-05 14:02:00 -08:00
 
 At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development. The samples below are both from my direct instruction, and as the Lead.
 
+### Best Awards
+
+A lot of our projects were nominated or received awards from the Best Awards, the regional annual design competition.
+
+> Brought to you by The Designers Institute of New Zealand, The Best Design Awards is an annual showcase of excellence in graphic, spatial, product, digital and motion design along with three special awards - Value of Design, Public Good and Toitanga.
+
+You can find more samples from our programme on their website, including [Blume](https://bestawards.co.nz/digital/student-digital/massey-university-college-of-creative-arts/blume/), [The Train of Many Stations](https://bestawards.co.nz/digital/student-digital/massey-university-college-of-creative-arts/the-train-of-many-stations/), [Night Lights](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/night-lights/), and [Smoke and Mirrors](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/smoke-and-mirrors/).
+
 
 ### 2021
 #### Black Channel
@@ -40,6 +48,12 @@ This was a little project that could -- a tiny team, completely dedicated to an 
 
 [Gold, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/lance-what-have-you-done/)
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/mdp9IDLf0T4?si=786J4vl1rOKvUaRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/mdp9IDLf0T4?si=786J4vl1rOKvUaRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Inhabit
+
+[Gold, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/inhabit/)
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/291233814?h=ca82c1b060" width="720" height="405" frameborder="0" allowfullscreen></iframe>
 
 ## Art Institute of Portland
