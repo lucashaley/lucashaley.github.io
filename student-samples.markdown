@@ -13,7 +13,7 @@ At Massey University in Wellington, NZ, I was both Programme (Department) Lead a
 
 [Silver, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/black-channel/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3x_5X8odaY?si=TnaHxjv4cR269IYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/x3x_5X8odaY?si=TnaHxjv4cR269IYN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Midnight Snack
 
@@ -34,10 +34,12 @@ This was a little project that could -- a tiny team, completely dedicated to an 
 
 ### 2019
 
+2019 was the first year of students that graduated from the degree I helped to create, so it has a special place for me. The works from this year were proof of the success of the degree, and demonstrated the potential yet to reach.
+
 #### Lance, What Have You Done
 
 [Gold, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/lance-what-have-you-done/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mdp9IDLf0T4?si=786J4vl1rOKvUaRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/mdp9IDLf0T4?si=786J4vl1rOKvUaRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Art Institute of Portland
