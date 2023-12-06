@@ -3,6 +3,8 @@ title: Student Samples
 date: 2023-12-05 14:02:00 -08:00
 ---
 
+Here are some samples of student work from across the years. For some personal notes, please check out some [testimonials](https://lucashaley.com/testimonials).
+
 ## Massey University
 
 At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development. For more information, please check out the [department website](https://creative.massey.ac.nz/study/screen-arts/).
