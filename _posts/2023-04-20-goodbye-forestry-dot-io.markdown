@@ -5,7 +5,7 @@ categories:
 - Frustration
 tags:
 - test
-excerpt: Time to change again.
+excerpt: Time to change again. Goodbye old posts.
 splash_image: "/uploads/forestry.jpeg"
 layout: post
 ---
