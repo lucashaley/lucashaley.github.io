@@ -5,7 +5,9 @@ date: 2023-12-05 14:02:00 -08:00
 
 ## Massey University
 
-At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development. The samples below are both from my direct instruction, and as the Lead.
+At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development.
+
+For any given year, there were 12 - 18 student capstone teams. My role was to shepherd those projects through ideation, development, preproduction, production, postproduction, and delivery. Each team self-formed, and worked with a staff mentor. The projects below are ones in which I was also the mentor.
 
 ### Best Awards
 
