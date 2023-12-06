@@ -9,7 +9,7 @@ Here are some samples of student work from across the years. For some personal n
 
 At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development. For more information, please check out the [department website](https://creative.massey.ac.nz/study/screen-arts/).
 
-For any given year, there were 12 - 18 student capstone teams. My role was to shepherd those projects through ideation, development, preproduction, production, postproduction, and delivery. Each team self-formed, and worked with a staff mentor. The projects below are ones in which I was also the mentor.
+For any given year, there were 12 - 18 student capstone teams, each team compromising 8 - 18 students. My role was to shepherd those projects through ideation, development, preproduction, production, postproduction, and delivery. Each team self-formed, and worked with a staff mentor. The projects below are ones in which I was also the mentor.
 
 ### Best Awards
 
@@ -25,6 +25,8 @@ You can find more samples from our programme on their website, including [Blume]
 
 [Silver, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/black-channel/)
 
+Sometimes you get a student team that you just have to get out of their way. This team created an amazing demo, worked together seamlessly, and did it in style.
+
 ![BlackChannel](/uploads/BlackChannel1%20-%20Max%20Skerrett-0-2344-0-1652.png)
 ![BlackChannel](/uploads/BlackChannel4%20-%20Max%20Skerrett-0-2344-0-1652.png)
 
@@ -33,6 +35,8 @@ You can find more samples from our programme on their website, including [Blume]
 #### Midnight Snack
 
 [Silver, Best Awards](https://bestawards.co.nz/digital/student-digital/massey-university-college-of-creative-arts/midnight-snack/)
+
+A charming demo, using a balance platform as player input. Working with a local physical therapy startup, [Swibo](https://www.youtube.com/watch?v=JW761QPWHf0), the team overcame the challenges of custom input and APIs to make something special.
 
 ![MidnightSnack](/uploads/MidnightSnack1%20-%20Mereana%20Johnston-0-2344-0-1652.png)
 
@@ -59,9 +63,18 @@ This was a little project that could -- a tiny team, completely dedicated to an 
 
 [Finalist, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/hans-tweet-1/)
 
+Another tiny team achieving a lot. This project was a 2-person stop-motion project completed in one year.
+
+![HansAndTweet1.jpg](/uploads/HansAndTweet1.jpg)
+![HansAndTweet2.jpg](/uploads/HansAndTweet2.jpg)
+
 ### Return to Fable Grove
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/384645634?h=37078ff4bc" width="720" height="405" frameborder="0"    allowfullscreen></iframe>
+Psychological horror film with puppets? Sold.
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384645634?h=37078ff4bc" width="720" height="405" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="720" height="405" src="https://www.youtube.com/embed/gSnoMftS0Tw?si=ndiT7pQ9qHN8y6WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### 2019
 
@@ -70,6 +83,8 @@ This was a little project that could -- a tiny team, completely dedicated to an 
 #### Lance, What Have You Done
 
 [Gold, Best Awards](https://bestawards.co.nz/moving-image/student-moving-image/massey-university-college-of-creative-arts/lance-what-have-you-done/)
+
+As a faculty, we would discourage solo teams for capstone projects. But this one we couldn't say no to.
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/mdp9IDLf0T4?si=786J4vl1rOKvUaRt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -94,3 +109,23 @@ This was a little project that could -- a tiny team, completely dedicated to an 
 <iframe src="https://player.vimeo.com/video/460782695?badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="405" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="CMP_Showreel_2018"></iframe>
 
 ## Art Institute of Portland
+
+### 2014
+
+#### Super Thrust Busters
+
+<iframe src="https://player.vimeo.com/video/247455852?h=1f56e3d9d9&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="405" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Super Thrust Busters Demo"></iframe>
+
+### 2011
+
+#### Cleaver Fever
+
+<iframe src="https://player.vimeo.com/video/39118171?h=aa2768ef0a&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Cleaver Fever: 2011 Game Production Team"></iframe>
+
+### 2010
+
+#### Planetside
+
+Created in partnership with Sony Online Entertainment.
+
+<iframe src="https://player.vimeo.com/video/34093433?h=d1b1a77df0&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="405" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Planetside2010 Overview"></iframe>
