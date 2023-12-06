@@ -1,6 +1,7 @@
 ---
 title: Student Samples
 date: 2023-12-05 14:02:00 -08:00
+splash_image: "/uploads/chrome_mFfmTP69vR.png"
 ---
 
 ## Massey University
