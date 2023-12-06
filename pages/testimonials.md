@@ -1,8 +1,8 @@
 ---
 title: Testimonials
-permalink: Testimonials
+permalink: testimonials
+splash: 
 layout: page
-splash: ''
 ---
 
 #### Here are some unsolicited testimonials from graduated students.
