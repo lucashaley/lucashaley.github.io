@@ -9,6 +9,21 @@ Here are some samples of student work from across the years. For some personal n
 
 At Massey University in Wellington, NZ, I was both Programme (Department) Lead and Senior Lecturer. The majority of my work there was setting up a new department in Screen Arts (animation, film, VFX, games, creative technology), including a vast amount of academic development. For more information, please check out the [department website](https://creative.massey.ac.nz/study/screen-arts/).
 
+Courses I directly taught included:
+
+- Animation I
+- Game Development I
+- Game Development II
+- Game Development III
+- Intermedia
+- Cross-media
+- Visualisation for Media Production
+- Working with Scripted Material
+- Game Production
+- Production Planning and Development
+- Major Project Development
+- Portfolio and Dissemination
+
 For any given year, there were 12 - 18 student capstone teams, each team compromising 8 - 18 students. My role was to shepherd those projects through ideation, development, preproduction, production, postproduction, and delivery. Each team self-formed, and worked with a staff mentor. The projects below are ones in which I was also the mentor.
 
 ### Best Awards
