@@ -110,6 +110,27 @@ As a faculty, we would discourage solo teams for capstone projects. But this one
 
 ## Art Institute of Portland
 
+For AIPD, I taught the following courses:
+
+- Internet concepts
+- Image manipulation
+- Advanced image manipulation
+- Web animation
+- Digital ink and paint
+- Introduction to game development
+- Game design and play
+- Level design
+- Advanced level design
+- Rapid prototyping
+- Game preproduction
+- Game production team
+- Advances game production team
+- Senior studio
+
+In addition, I led the game development capstone projects, year-long team-based projects culminating in a game demo. These projects usually had 25 - 35 students, and carried them all the way through the game development pipeline.
+
+These samples are sparse, it's been a while!
+
 ### 2014
 
 #### Super Thrust Busters
@@ -120,7 +141,7 @@ As a faculty, we would discourage solo teams for capstone projects. But this one
 
 #### Cleaver Fever
 
-<iframe src="https://player.vimeo.com/video/39118171?h=aa2768ef0a&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Cleaver Fever: 2011 Game Production Team"></iframe>
+<iframe src="https://player.vimeo.com/video/39118171?h=aa2768ef0a&amp;badge=0&amp;autopause=0&amp;quality_selector=1&amp;player_id=0&amp;app_id=58479" width="720" height="405" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" title="Cleaver Fever: 2011 Game Production Team"></iframe>
 
 ### 2010
 
