@@ -6,3 +6,5 @@ content:
     label: Posts
     path: _posts
     type: collection
+    view:
+      fields: [ title, published, date ]
