@@ -1,8 +1,8 @@
 ---
 title: About Me
 permalink: about
+splash: 
 layout: page
-splash: ''
 ---
 
 ## Research
@@ -17,7 +17,7 @@ Since 2008 I have been teaching digital art, animation, game design and coding. 
 
 ### Testimonials
 
-Some non-solicited student testimonials can be found [here](Testimonials "Testimonials").
+Some non-solicited student testimonials can be found [here](https://lucashaley.com/testimonials).
 
 ### Philosophy
 
