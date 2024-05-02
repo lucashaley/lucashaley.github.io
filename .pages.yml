@@ -1,0 +1,8 @@
+media:
+  input: uploads
+  output: /uploads
+content:
+  - name: posts
+    label: Posts
+    path: _posts
+    type: collection
