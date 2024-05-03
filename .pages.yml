@@ -2,6 +2,10 @@ media:
   input: uploads
   output: /uploads
 content:
+  - name: drafts
+    label: Drafts
+    path: _drafts
+    type: collection
   - name: pages
     label: Pages
     path: pages
