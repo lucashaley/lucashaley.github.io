@@ -21,7 +21,8 @@ content:
         type: string
       - name: layout
         label: Layout
-        type: string
+        options:
+        values: [ page, post ]
   - name: posts
     label: Posts
     path: _posts
