@@ -22,7 +22,7 @@ content:
       - name: layout
         label: Layout
         options:
-        values: [ page, post ]
+          values: [ page, post ]
   - name: posts
     label: Posts
     path: _posts
