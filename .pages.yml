@@ -2,6 +2,10 @@ media:
   input: uploads
   output: /uploads
 content:
+  - name: pages
+    label: Pages
+    path: _pages
+    type: collection
   - name: posts
     label: Posts
     path: _posts
