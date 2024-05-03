@@ -6,6 +6,9 @@ content:
     label: Pages
     path: pages
     type: collection
+    view:
+      fields: [ title, published ]
+      sort: [ title ]
   - name: posts
     label: Posts
     path: _posts
