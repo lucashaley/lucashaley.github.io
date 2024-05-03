@@ -4,7 +4,7 @@ media:
 content:
   - name: pages
     label: Pages
-    path: pages
+    path: _pages
     type: collection
     view:
       fields: [ title, published ]
