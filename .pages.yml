@@ -23,7 +23,7 @@ content:
       - name: body
         label: Body
         type: rich-text
-      - name: tags
-        label: Tags
+      - name: categories
+        label: Categories
         type: string
         list: true
