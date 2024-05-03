@@ -1,13 +1,11 @@
 ---
 title: About Me
-permalink: about
-splash: 
-layout: page
 ---
-
 ## Research
 
 My research is primarily focused on exploring the meaning behind our mediated modern lives through the technology that increasingly defines us. My work uses bleeding-edge tech to explore how we can maintain our humanity and social connections in spite of that same technology.
+
+[Life Drawing](https://www.lucashaley.com/life-drawing/)
 
 ## Instruction
 
@@ -32,15 +30,14 @@ While the majority of the classes I teach are principally technical classes, it 
 ![](/uploads/cbs.jpeg)  
 I used to play bass for the mighty pirate band for buccaneers of all ages, Captain Bogg & Salty. We were together for about eleven years, playing for kids and adults, at libraries, schools, clubs, trailer parks, and malls.
 
-<iframe width="720" height="540" src="https://www.youtube-nocookie.com/embed/zdSkDXs00xg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="720" height="540" src="https://www.youtube-nocookie.com/embed/HkamlN_w-Zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In all, we released four albums. You can find them on Amazon.com and CDbaby.com.
 
 #### Albums
 
-* [Bedtime Stories for Pirates](http://www.amazon.com/gp/product/B00003GO0I)
-* [Pegleg Tango](http://www.amazon.com/gp/product/B0007KH8F8) ("A-" from Entertainment Weekly, "Best of 2005", Amazon.com)
-* [Prelude to Mutiny](http://www.amazon.com/gp/product/B000H6SVA8)
-* [Emphatical Piratical](http://www.amazon.com/Emphatical-Piratical-Captain-Bogg-Salty/dp/B001NZ2O7S/)
+*   [Bedtime Stories for Pirates](http://www.amazon.com/gp/product/B00003GO0I)
+    
+*   [Pegleg Tango](http://www.amazon.com/gp/product/B0007KH8F8) ("A-" from Entertainment Weekly, "Best of 2005", Amazon.com)
+    
+*   [Prelude to Mutiny](http://www.amazon.com/gp/product/B000H6SVA8)
+    
+*   [Emphatical Piratical](http://www.amazon.com/Emphatical-Piratical-Captain-Bogg-Salty/dp/B001NZ2O7S/)
