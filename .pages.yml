@@ -16,6 +16,12 @@ content:
       - name: body
         label: Body
         type: rich-text
+      - name: permalink
+        label: Permalink
+        type: string
+      - name: layout
+        label: Layout
+        type: string
   - name: posts
     label: Posts
     path: _posts
