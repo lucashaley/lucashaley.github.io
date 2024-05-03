@@ -30,3 +30,6 @@ content:
       - name: excerpt
         label: Excerpt
         type: rich-text
+      - name: splash_image
+        label: Splash Image
+        type: image
