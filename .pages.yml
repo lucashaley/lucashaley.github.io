@@ -19,6 +19,9 @@ content:
       - name: permalink
         label: Permalink
         type: string
+      - name: splash
+        label: Splash
+        type: image
       - name: layout
         label: Layout
         options:
