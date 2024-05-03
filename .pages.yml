@@ -27,3 +27,6 @@ content:
         label: Categories
         type: string
         list: true
+      - name: excerpt
+        label: Excerpt
+        type: rich-text
