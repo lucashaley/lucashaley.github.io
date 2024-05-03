@@ -8,6 +8,7 @@ content:
     type: collection
     view:
       fields: [ title, published, date ]
+      sort: [ date ]
     fields:
       - name: published
         label: Published
