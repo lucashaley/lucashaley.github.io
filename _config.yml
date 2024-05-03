@@ -55,3 +55,4 @@ exclude:
 - README.md
 - CNAME
 excerpt_separator: <!--more-->
+lsi: true
