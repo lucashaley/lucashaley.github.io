@@ -13,6 +13,9 @@ content:
       - name: title
         label: Title
         type: string
+      - name: body
+        label: Body
+        type: rich-text
   - name: posts
     label: Posts
     path: _posts
