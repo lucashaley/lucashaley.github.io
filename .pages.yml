@@ -4,7 +4,7 @@ media:
 content:
   - name: pages
     label: Pages
-    path: _pages
+    path: pages
     type: collection
   - name: posts
     label: Posts
