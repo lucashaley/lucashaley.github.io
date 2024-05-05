@@ -25,4 +25,4 @@ This whole 2016 election cycle was craziness. But one thing that kept popping up
 
 ![](/uploads/TopTrumps_02.jpg)
 
-[W with the "Mom" top trump card](http://www.lucashaley.com/wp-content/uploads/2016/11/img_0245-2.jpg)
+W with the "Mom" top trump card
