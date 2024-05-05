@@ -30,12 +30,9 @@ Most recently I've added the IBM Watson speech-to-text functionality, allowing t
 
 After that, it'll be refining the behaviours to allow for sheep and dog personalities, and lastly making a VR version. Just because.
 
-```
 [![Herdr]
 (https://img.youtube.com/vi/mquZPv50nd0/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=mquZPv50nd0)
-```
 
-```
+
 {% include youtube.html id="mquZPv50nd0" %}
-```
