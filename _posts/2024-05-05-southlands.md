@@ -4,7 +4,6 @@ date: 2014-10-31
 title: Southlands
 categories:
   - RPG
-  - null
 splash_image: /uploads/Southlands_01.png
 ---
 ![](/uploads/Southlands_01.png)
