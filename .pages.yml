@@ -28,7 +28,7 @@ content:
         type: image
       - name: layout
         label: Layout
-        type: string
+        type: select
         options:
           values: [ page, post ]
   - name: posts
