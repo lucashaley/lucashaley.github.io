@@ -29,3 +29,7 @@ The dog's behaviour is a little trickier, but I've made some progress there too.
 Most recently I've added the IBM Watson speech-to-text functionality, allowing the player to use voice commands. I'm in the process of iterating the dog's behaviour to react.
 
 After that, it'll be refining the behaviours to allow for sheep and dog personalities, and lastly making a VR version. Just because.
+
+```
+{% include youtube.html id="mquZPv50nd0" %}
+```
