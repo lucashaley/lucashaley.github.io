@@ -1,9 +1,8 @@
 ---
-title: Posts Archive
-permalink: "/archive/"
+title: Posts
+permalink: /archive/
 layout: page
 ---
-
 <div id="archives">
   <section id="archive">
      <h3>Most Recent Posts</h3>
