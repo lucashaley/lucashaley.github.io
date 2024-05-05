@@ -28,6 +28,7 @@ content:
         type: image
       - name: layout
         label: Layout
+        type: string
         options:
           values: [ page, post ]
   - name: posts
