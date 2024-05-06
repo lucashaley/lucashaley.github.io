@@ -8,6 +8,8 @@ Welcome to my little corner of the internet.
 
 Isn't it special
 
+# Posts
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
