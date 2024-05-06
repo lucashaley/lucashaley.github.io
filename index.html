@@ -20,11 +20,16 @@ Isn't it special
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
 
+        {% if post.splash_image %}
         <img class="splash" src="{{ post.splash_image | relative_url }}">
+        {% endif %}
+
       </a>
+      {% if post.excerpt %}
       <div class="entry">
         {{ post.excerpt }}
       </div>
+      {% endif %}
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
