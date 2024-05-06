@@ -1,10 +1,9 @@
 ---
 title: Categories
-permalink: "/categories/"
+nav_order: 4
+permalink: /categories/
 layout: page
-nav_order: 5
 ---
-
 <div id="archives">
 {% for category in site.categories %}
   <div class="archive-group">
