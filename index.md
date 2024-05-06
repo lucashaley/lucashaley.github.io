@@ -15,7 +15,9 @@ nav_order: 1
 
 {% if post.splash_image %}
 <div class="splash">
+
 ![]({{ post.splash_image | relative_url }})
+
 </div>
 {% endif %}
 
