@@ -11,4 +11,4 @@ It was quite a project -- there was a lot of research, checking over exactly how
 
 Ultimately, my tenure with Epic was over before the guide was completed -- the last 5% of detail, and all the formatting. Luckily, Diana Diriwaechter picked up the project and pushed it through to completion.
 
-Check out the \[Epic Games Guide to Version Control\]([https://dev.epicgames.com/community/learning/tutorials/Yboq/unreal-engine-fortnite-epic-education-guide-to-version-control](https://dev.epicgames.com/community/learning/tutorials/Yboq/unreal-engine-fortnite-epic-education-guide-to-version-control)), and leave a nice comment!
+Check out the [Epic Games Guide to Version Control](https://dev.epicgames.com/community/learning/tutorials/Yboq/unreal-engine-fortnite-epic-education-guide-to-version-control](https://dev.epicgames.com/community/learning/tutorials/Yboq/unreal-engine-fortnite-epic-education-guide-to-version-control), and leave a nice comment!
