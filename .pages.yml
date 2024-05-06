@@ -13,6 +13,7 @@ content:
     view:
       fields: [ title, published ]
       sort: [ nav_order ]
+      order: asc
     fields:
       - name: title
         label: Title
