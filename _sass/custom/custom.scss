@@ -18,6 +18,7 @@
   width: 100%;
   top: 50%;
   left: 50%;
+  transform-origin: center;
   transform: translate(-50%,-50%);
-  transform: rotate(15deg);
+  transform: rotate(10deg);
 }
