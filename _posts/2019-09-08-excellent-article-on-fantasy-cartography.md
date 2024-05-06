@@ -1,11 +1,9 @@
 ---
-title: Excellent Article on Fantasy Cartography
+published: true
 date: 2019-09-08 12:55:00 -07:00
-tags:
-- Link
-- Cartography
+title: Excellent Article on Fantasy Cartography
 excerpt: Just a link.
-splash_image: "/uploads/fantasy_cartography.png"
+splash_image: /uploads/FantasyCartography_01.png
 ---
 [Here Be Cartographers: Reading the Fantasy Map](http://www.nicholastam.ca/2011/04/18/here-be-cartographers-reading-the-fantasy-map/)
 
