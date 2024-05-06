@@ -2,6 +2,8 @@
 published: true
 date: 2019-09-08 12:55:00 -07:00
 title: Excellent Article on Fantasy Cartography
+categories:
+  - Article
 excerpt: Just a link.
 splash_image: /uploads/FantasyCartography_01.png
 ---
