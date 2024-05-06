@@ -1,7 +1,6 @@
 ---
 title: Artworks
-permalink: "/artworks/"
+nav_order: 5
+permalink: /artworks/
 layout: page
-nav-order: 4
 ---
-
