@@ -1,19 +1,16 @@
 ---
-title: 'Scientists with Cool Names #22: Casimir Funk'
+published: true
 date: 2020-09-08 17:00:00 -07:00
+title: "Scientists with Cool Names #22: Casimir Funk"
 categories:
-- Nonsense
-- Science
-- ScientistsWithCoolNames
+  - Nonsense
+  - Science
+  - ScientistsWithCoolNames
 excerpt: nee Kazimierz.
-splash_image: "/uploads/funk-xxxl.jpg"
-posts:
-- 'Scientists with Cool Names #21: Vesto Slipher'
-- 'Scientists with Cool Names #23: Erasmus Smit'
-layout: post
+splash_image: /uploads/funk-xxxl.jpg
 ---
-Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died*. For you.
+Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died[^1]. For you.
 
 ![](/uploads/funk-xxxl.jpg)
 
-\* brown rice is better for you than white rice.
+[^1]: brown rice is better for you than white rice.
