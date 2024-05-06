@@ -1,10 +1,11 @@
 ---
-title: Aotearoa and Call of Cthulhu
+published: true
 date: 2019-02-06 16:00:00 -08:00
+title: Aotearoa and Call of Cthulhu
 categories:
-- New Zealand
+  - Aotearoa
 excerpt: Aotearoa is ripe as a setting for Call of Cthulhu games.
-splash_image: "/uploads/2019-01-07-aotearoa-splash.jpg"
+splash_image: /uploads/2019-01-07-aotearoa-splash.jpg
 ---
 I've been living in Aotearoa New Zealand for about two and half years now. It's an amazing place. I've been learning about the country, the people, and its history. It's a complex place, filled with contradictions. Much like the US, it was colonized by the British, its indigenous peoples subjugated and their rich cultural and mythological heritage abused. It started to come into its own around the 1920s, after a huge percentage of their population decimated in World War I. In short, what I'm saying is that Aotearoa is ripe as a setting for Call of Cthulhu games.
 
