@@ -1,6 +1,14 @@
----
 title: Lucas Haley
+description: A small personal website
 timezone: America/Los_Angeles
+theme: just-the-docs
+logo: "/images/lmh.png"
+favicon_ico: "/images/favicon.ico"
+
+url: https://lucashaley.github.io/personal-website
+
+aux_links:
+
 collections:
   posts:
     title: Posts
@@ -8,30 +16,21 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Lucas M. Haley
-author: Lucas Haley
-description: A personal website
+  artworks:
+    title: Title
+    year: Year
+
 avatar: "/images/lmh.png"
 footer-links:
-  dribbble: 
   email: lucashaley@yahoo.com
-  facebook: 
-  flickr: 
   github: lucashaley
   instagram: lucashaley
   linkedin: lucashaley
-  pinterest: 
   rss: rss
   twitter: lucashaley
-  stackoverflow: 
-  youtube: 
-  googleplus: 
-  playconsole: 
-disqus: 
-url: http://lucashaley.github.io
-enforce_ssl: https://lucashaley.github.io
+
 permalink: "/:title/"
-version: v1.2.0
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -40,6 +39,7 @@ kramdown:
 sass:
   style: expanded
 plugins:
+- jekyll-default-layout
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-seo-tag
@@ -57,3 +57,37 @@ exclude:
 - CNAME
 excerpt_separator: <!--more-->
 lsi: true
+
+twitter:
+  username: lucashaley
+social:
+  links:
+    - https://twitter.com/LucasHaley
+    - https://www.linkedin.com/in/LucasHaley
+    - https://github.com/lucashaley
+
+# Enable or disable the site search
+# Supports true (default) or false
+search_enabled: true
+# Split pages into sections that can be searched individually
+# Supports 1 - 6, default: 2
+search.heading_level: 2
+# Maximum amount of previews per search result
+# Default: 3
+search.previews: 3
+# Maximum amount of words to display before a matched word in the preview
+# Default: 5
+search.preview_words_before: 5
+# Maximum amount of words to display after a matched word in the preview
+# Default: 10
+search.preview_words_after: 10
+# Set the search token separator
+# Default: /[\s\-/]+/
+# Example: enable support for hyphenated search words
+search.tokenizer_separator: /[\s/]+/
+# Display the relative url in search results
+# Supports true (default) or false
+search.rel_url: true
+# Enable or disable the search button that appears in the bottom right corner of every page
+# Supports true or false (default)
+search.button: true
