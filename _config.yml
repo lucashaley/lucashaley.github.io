@@ -2,7 +2,7 @@ title: Lucas Haley
 description: A small personal website
 timezone: America/Los_Angeles
 theme: just-the-docs
-logo: "/images/lmh.png"
+# logo: "/images/lmh.png"
 favicon_ico: "/images/favicon.ico"
 
 url: https://lucashaley.github.io/
