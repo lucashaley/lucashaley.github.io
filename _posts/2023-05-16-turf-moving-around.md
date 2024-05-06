@@ -1,11 +1,11 @@
 ---
-title: 'Turf: Moving Around'
+published: true
 date: 2023-05-16 09:50:00 -07:00
+title: "Turf: Moving Around"
 categories:
-- Game Design
-tags:
-- Progress
-splash_image: "/uploads/chrome_mFfmTP69vR.png"
+  - Game Design
+excerpt: Getting closer to the play loop
+splash_image: /uploads/chrome_mFfmTP69vR.png
 ---
 Another quick test of the game. This time in the city — and I managed to find the bot spawn!
 
