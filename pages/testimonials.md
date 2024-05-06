@@ -4,6 +4,8 @@ nav_order: 6
 permalink: testimonials
 layout: page
 ---
+# Teaching Testimonials
+
 > Here are some unsolicited testimonials from graduated students.
 
 I just wanted to reach out and say thank you for the experience at Ai, strange as it may have been. During the Game Production class you allowed me to manage the asset lists and forum posts and such. It's exactly what I just fell into now and I absolutely love it, even if it is sometimes 80+ hours a week. Thank you!
