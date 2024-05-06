@@ -1,8 +1,19 @@
 .splash {
-  height: 120px;
+  height: 240px;
   overflow: hidden;
 }
 .splash img {
+  position: relative;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.index-splash {
+  height: 120px;
+  overflow: hidden;
+}
+.index-splash img {
   position: relative;
   width: 100%;
   top: 50%;
