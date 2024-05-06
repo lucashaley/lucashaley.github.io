@@ -12,7 +12,10 @@ layout: default
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
 
+        {% if post.splash_image %}
         <img class="splash" src="{{ post.splash_image | relative_url }}">
+        {% endif %}
+
       </a>
       <div class="entry">
         {{ post.excerpt }}
