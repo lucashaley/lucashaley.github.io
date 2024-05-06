@@ -1,8 +1,7 @@
 ---
 title: Student Samples
-date: 2023-12-05 14:02:00 -08:00
+nav_order: 7
 ---
-
 Here are some samples of student work from across the years. For some personal notes, please check out some [testimonials](https://lucashaley.com/testimonials).
 
 ## Massey University
