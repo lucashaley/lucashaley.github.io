@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+# {{ page.title }}
+
+{% if page.splash_image %}
+<div class="splash" markdown="1">
+
+![]({{ page.splash_image | relative_url }})
+
+</div>
+{% endif %}
+
+{{ content }}
