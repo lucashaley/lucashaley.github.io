@@ -1,5 +1,10 @@
-#main-content > main > p > img {
+.splash {
   height: 120px;
   overflow: hidden;
+}
+.splash img {
+  position:absolute;
+  top:50%;
+  left:50%;
   transform:translate(-50%,-50%);
 }

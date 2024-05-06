@@ -14,7 +14,9 @@ nav_order: 1
 #### {{ post.date | date: "%B %e, %Y" }}
 
 {% if post.splash_image %}
+<div class="splash">
 ![]({{ post.splash_image | relative_url }})
+</div>
 {% endif %}
 
 {% if post.excerpt %}
