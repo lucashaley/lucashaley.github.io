@@ -21,20 +21,7 @@ We chatted about different die pip values and frequency, and how you can change 
 
 We ended up with a pretty good balance of numbers. The one thing was the blank sides for the Hare. We wanted to have the Hare stop along the way, and had tried using "must stop" locations on the board, but that seemed to have a predictability that wasn't desireable. The blank die sides are effectively a "miss a turn" roll, which is often bad game design, but it matched the metaphor so well we kept them. We did have to do more balancing later, but more on that later. The next step was the board. James Ernest has a great essay [on volatility](http://www.cheapass.com/node/103), including a section on the game "Kill the Elf". In this game, the number of spaces in the race is effectively the hit points of the elf, and the tortoise the warrior and the hare the wizard. Too few spaces in the race, and the hare wins more frequently. Too many, and the tortoise has the advantage.
 
-
-![](/uploads/TortoiseHare_02.jpg) | ![](/uploads/TortoiseHare_04.jpg) | ![](/uploads/TortoiseHare_05.jpg)
-:---: | :---: | :---:
-Board version 1 | Board version 2 | Playtesting
-
-![](/uploads/TortoiseHare_02.jpg)
-
-Board version 1
-
-![](/uploads/TortoiseHare_04.jpg)
-
-Board version 2
-
-![](/uploads/TortoiseHare_05.jpg)
+<table style="minWidth: 75px"><colgroup><col><col><col></colgroup><tbody><tr><th colspan="1" rowspan="1"><p><img src="/uploads/TortoiseHare_02.jpg" alt=""></p></th><th colspan="1" rowspan="1"><p><img src="/uploads/TortoiseHare_04.jpg" alt=""></p></th><th colspan="1" rowspan="1"><p><img src="/uploads/TortoiseHare_05.jpg" alt=""></p></th></tr><tr><td colspan="1" rowspan="1"><p>Board version 1</p></td><td colspan="1" rowspan="1"><p>Board version 2</p></td><td colspan="1" rowspan="1"><p>Playtesting</p></td></tr></tbody></table>
 
 The girls were up for several rounds of playtesting. They definitely preferred to play the tortoise, but the hare won just as many games.
 
