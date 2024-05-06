@@ -2,6 +2,7 @@
 title: Categories
 permalink: "/categories/"
 layout: page
+nav_order: 5
 ---
 
 <div id="archives">

@@ -3,6 +3,7 @@ title: Testimonials
 permalink: testimonials
 splash: 
 layout: page
+nav_exclude: true
 ---
 
 #### Here are some unsolicited testimonials from graduated students.
