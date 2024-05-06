@@ -12,11 +12,14 @@ content:
     type: collection
     view:
       fields: [ title, published ]
-      sort: [ title ]
+      sort: [ nav_order ]
     fields:
       - name: title
         label: Title
         type: string
+      - name: nav_order
+        label: Navigation order
+        type: number
       - name: body
         label: Body
         type: rich-text
