@@ -10,7 +10,6 @@ posts:
 - How to create a new Unity template from scratch
 layout: post
 ---
-
 Sometimes I find myself beating my head against a particular programming problem, trying to force the code, and inevitably it means I'm not thinking in the right way about it. It's like the Blaise Pascal quote:
 
 > I have made this longer than usual because I have not had time to make it shorter.

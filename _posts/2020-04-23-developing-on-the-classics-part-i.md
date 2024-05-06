@@ -8,7 +8,6 @@ categories:
 splash_image: "/uploads/2020-04-23-developing-splash.png"
 excerpt: On using a classic game as a basis for further development.
 ---
-
 In my game development courses, I will often ask my students to take an existing game – blackjack, hopscotch, Jenga – and try to make a new game from those basic rules. It's a common exercise, and quite a good one for beginning designers, as you have a clear and well-defined game rules.
 
 At the start of this semester I asked my student to riff off one of the oldest games ever, Rock Paper Scissors. There are quite a lot of variants, all known as "ken" games, from the Japanese word for "fist".

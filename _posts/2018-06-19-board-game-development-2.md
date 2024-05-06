@@ -8,10 +8,11 @@ excerpt: Suddenly teaching board game design
 posts:
 - _posts/2020-04-23-developing-on-the-classics-part-i.md
 ---
-
 So I just wrapped up spring quarter at the Art Institute of Portland. A week before the quarter started, I was suddenly assigned to teach "Game Design and Play", the board game design class. I had never taught the class before, and although there were some existing syllabuses, there really wasn't anything to go on. And not enough time to get anything going.
 
-Now I'm not the most structured of teachers – I prefer leaving the class open to go where it needs to go, as the students explore the material. But this class was well beyond that. I was upfront with the students, and together we explored the material. It was fun. Hopefully it was enlightening.
+Now I'm not the most structured of teachers – I prefer leaving the class open to go where it needs to go, as the students explore the material. But this class was well beyond that. I was upfront with the students, and together we explored the material. It was fun. 
+
+Hopefully it was enlightening.
 
 Part of my approach was to bring the idea of a game to all parts of the class. For their final, I challenged them to come up with a complete game in the two hours allotted. The main requirement was to have, as the central game mechanic, something involving the following (which I provided):
 

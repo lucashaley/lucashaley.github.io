@@ -7,7 +7,6 @@ categories:
 excerpt: Teaching history and philosophy through art.
 splash_image: "/uploads/2017-12-15-orme-splash.jpg"
 ---
-
 <iframe loading="lazy" width="560" height="314" src="https://youtu.be/J9aHyn3U3wQ" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
 
 Robert Orme was my Art History teacher in high school. I was the only person in my year who wanted to take the subject, but he was willing to tutor me one-on-one.
@@ -20,9 +19,6 @@ He was the teacher who held me to a higher standard than I thought was possible,
 
 Looking back on it now, after oh 25 years, it was really quite remarkable what he asked me to do. I am tremendously thankful for the experience I had with him. He is the man.
 
-
 ### Update
-
 I just found this tribute video.
-
 <iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/D0NZdz8dLLM" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>

@@ -14,7 +14,6 @@ posts:
 - 'Scientists with Cool Names #24: Dr. Ngaio Beausoleil'
 layout: post
 ---
-
 Known for using spectroscopy to determine the rotation of galaxies, and for being terribly cavalier with his neckties.
 
 ![](/uploads/1*Pd2aYj3fhjr9rZohY2fRoQ.jpeg)

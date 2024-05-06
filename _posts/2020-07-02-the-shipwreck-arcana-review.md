@@ -8,7 +8,6 @@ excerpt: Is your logic as strong as our logic?
 splash_image: "/uploads/2020-07-02-shipwrecksplash.png"
 layout: post
 ---
-
 [The Shipwreck Arcana](https://www.meromorphgames.com/shop/shipwreck-arcana) is a card game of deduction and teamwork, from [Meromorph Games](https://www.meromorphgames.com/). I picked up the [print and play version](https://www.pnparcade.com/products/the-shipwreck-arcana) of it while doing some research for next semester's game course, and sat on it for a while. I was initially taken by the artwork – a cool Mike Mignola-style take on pseudo-tarot cards – but the instructions weren't great.
 
 It was only a week or so later that I read through the rules a couple of times, and _got_ it. I know, I'm not the smartest.
@@ -25,6 +24,8 @@ It's a bit like the bidding round of Bridge, in which the group are trying to us
 
 I have yet to try the game in a group – I ordered the physical version, and it'll take some time to arrive here in NZ. I'm eager to see how it plays!
 
-**Key Mechanics:** Logic, cooperation, deduction, personality
+### Key Mechanics
+Logic, cooperation, deduction, personality
 
-**Standout Mechanic:** how one card has multiple uses through the **Doom** and **Fade** mechanics.
+### Standout Mechanic
+How one card has multiple uses through the **Doom** and **Fade** mechanics.

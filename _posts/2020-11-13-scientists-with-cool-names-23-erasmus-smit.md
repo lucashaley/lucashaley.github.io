@@ -12,11 +12,9 @@ posts:
 splash_image: "/uploads/ras-smit-p-copy-v3-2-xxxl.jpg"
 layout: post
 ---
-
 This is a special instalment of Scientists with Cool Names: this particular scientist is still alive!
 
 Dr. Erasmus Smit is New Zealand's only clinical virologist. Which, as you can imagine, has kept him pretty busy in 2020. He's on the COVID-19 Technical Advisory Group for the Ministry of Health, in charge of the testing for Covid-19 in the country.
-
 He apparently goes by "Ras".
 
 Also, he's named after[ one of the most badass dudes in history](https://en.wikipedia.org/wiki/Erasmus).

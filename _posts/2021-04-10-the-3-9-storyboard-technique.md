@@ -10,7 +10,6 @@ posts:
 - 
 layout: post
 ---
-
 As a teacher, I’m frequently working with students to refine their story ideas for short films and animations. I’ve found there are two consistent characteristics of students at this stage:
 
 * They have not watched enough short films to understand the format
@@ -24,7 +23,7 @@ The technique is simple and flexible: board out your story in three (3) panels. 
 
 Okay, there’s a little more than that.
 
-I use 3x3 templates from the awesome <a href="https://wonderunit.com/storyboarder/">Storyboarder</a>, printing them out in batches.
+I use 3x3 templates from the awesome [Storyboarder](https://wonderunit.com/storyboarder/), printing them out in batches.
 
 ![](/uploads/Storyboard_9x.png)
 
@@ -38,15 +37,11 @@ Then the students follow these steps:
 2. Selecting one of the 3-panel boards, the students then take new 9-panel templates and transfer their 3 original panels into the new templates.
 
 _How_ they place those original panels will significantly change the pace of the film.
-
 I usually go with two initial patterns:
 
 ![](/uploads/Storyboard_9x_100020003.jpg)
-
 ![](/uploads/Storyboard_9x_010020030.jpg)
-
 But there’s no reason you can’t challenge them to re-think their story, like so:
-
 ![](/uploads/Storyboard_9x_200100003.jpg)
 
 1. They then draw the extra panels around the original ones, filling out the story.

@@ -12,8 +12,7 @@ posts:
 - 'Scientists with Cool Names #23: Erasmus Smit'
 layout: post
 ---
-
-Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died.* For you.
+Born in Poland, later _discovered vitamins_. By feeding rice to pigeons. Some of them died*. For you.
 
 ![](/uploads/funk-xxxl.jpg)
 
