@@ -5,7 +5,7 @@ title: Digital Sculpting
 categories:
   - Artwork
 excerpt: A first attempt at digital sculpting.
-splash_image: /uploads/8d5c678d-3598-4e73-a1a9-09305781947f.jpeg
+splash_image: /uploads/Sculpting_02.jpg
 ---
 I’ve never tried digital sculpting. I’ve seen my students and peers noodling away in Zbrush, creating some awesome work. But every time I would try it, the user interface (and MacOS port) would completely turn me off.
 
