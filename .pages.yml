@@ -6,6 +6,35 @@ content:
     label: Drafts
     path: _drafts
     type: collection
+    view:
+      fields: [ title, published ]
+      sort: [ nav_order ]
+      default:
+        order: asc
+    fields: 
+      - name: published
+        label: Published
+        type: boolean
+        default: true
+      - name: date
+        label: Date
+        type: date
+      - name: title
+        label: Title
+        type: string
+      - name: body
+        label: Body
+        type: rich-text
+      - name: categories
+        label: Categories
+        type: string
+        list: true
+      - name: excerpt
+        label: Excerpt
+        type: rich-text
+      - name: splash_image
+        label: Splash Image
+        type: image
   - name: pages
     label: Pages
     path: pages
@@ -67,3 +96,4 @@ content:
       - name: splash_image
         label: Splash Image
         type: image
+    
