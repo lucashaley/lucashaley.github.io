@@ -4,6 +4,7 @@ timezone: America/Los_Angeles
 theme: just-the-docs
 # logo: "/images/lmh.png"
 favicon_ico: "/images/favicon.ico"
+show_drafts: true
 
 url: https://lucashaley.github.io/
 
