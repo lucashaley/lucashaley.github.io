@@ -1,18 +1,16 @@
 ---
-title: Turf! Classes and Accessibility
+published: true
 date: 2022-10-11 17:00:00 -07:00
+title: Turf! Classes and Accessibility
 categories:
-- Accessibility
-- Programming
+  - Accessibility
+  - Programming
 excerpt: A mobile game with mobility
-splash_image: "/uploads/screen-shot-2022-10-11-at-5-42-07-pm.png"
-posts:
-- Turf!
-layout: post
+splash_image: /uploads/screen-shot-2022-10-11-at-5-42-07-pm.png
 ---
 One of the first points of interest that came up when designing Turf! was how, as a mobile game that requires movement in physical space, it would be designed so that most people would be able to use it.
 
-Again, the premise is that real people run around real space, and using the game, place virtual markers at real locations which create virtual territory, overlaid on real space. 
+Again, the premise is that real people run around real space, and using the game, place virtual markers at real locations which create virtual territory, overlaid on real space.
 
 The highest aggregated rate of territory wins.
 
@@ -22,18 +20,24 @@ The highest aggregated rate of territory wins.
 
 There is clearly nothing I could do about the relative speeds of players. Runners gonna run. But here is where I could lean on the RTS genre conventions to help out -- player "classes". When joining a game, each player selects a class, that provides certain abilities and restrictions. For the first pass, I included:
 
-* Scout. This class has the most markers to place, and can place them without a long delay. But each marker doesn't last very long.
-* Tank. With the fewest markers to place, and the longest placement time, this class shines as those markers last the longest.
-* Commander. Fewer markers, and quite a long placement time. But the Commander also has the extra ability to see the opposing team players' locations at all times -- other classes can only see opposing team players' locations when they are in friendly territory.
+*   Scout. This class has the most markers to place, and can place them without a long delay. But each marker doesn't last very long.
+    
+*   Tank. With the fewest markers to place, and the longest placement time, this class shines as those markers last the longest.
+    
+*   Commander. Fewer markers, and quite a long placement time. But the Commander also has the extra ability to see the opposing team players' locations at all times -- other classes can only see opposing team players' locations when they are in friendly territory.
+    
 
 ![](/uploads/screen-shot-2022-10-11-at-5-54-26-pm.png)
 
 Hopefully you can see how these classes and extra abilities help soften the imbalance from physical advantages. Further classes will include:
-* Ghost. The mirror to the Commander -- remains invisible at all times.
-* Leech. Few markers of their own to place, but can "drain" enemy markers and take them over.
-* Drone. Not sure what to call this one, but this class would effectively allow a player to participate without physically moving. Instead, they would send a virtual "drone" to specific locations to place markers. But if that drone gets caught in enemy territory, it's lost.
+
+*   Ghost. The mirror to the Commander -- remains invisible at all times.
+    
+*   Leech. Few markers of their own to place, but can "drain" enemy markers and take them over.
+    
+*   Drone. Not sure what to call this one, but this class would effectively allow a player to participate without physically moving. Instead, they would send a virtual "drone" to specific locations to place markers. But if that drone gets caught in enemy territory, it's lost. I think the intention behind this class is to allow participation from players who may not be as mobile as others, and can virtually participate.
+    
 
 ### System UI
 
-It was also important to me to use system UI as much as possible. That way I could get the most built-in support for voice commands and other accessibility features.
-Visually, I'm trying to keep the UI clean, with high contrast, and large, easily readable text. Because for this game, I can. So that's good.
+It was also important to me to use system UI as much as possible. That way I could get the most built-in support for voice commands and other accessibility features. Visually, I'm trying to keep the UI clean, with high contrast, and large, easily readable text. Because for this game, I can. So that's good.
