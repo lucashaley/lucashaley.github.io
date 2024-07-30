@@ -13,13 +13,13 @@ But recently I pulled together some trusted compatriots, who were also in the sa
 
 ![](/uploads/2024-06-03-arkham2.jpg)
 
-There's a lot going for this game. It definitely asks a lot of the player -- not only with setup and rules understanding, but also strategy and narrative. Its a _tough_ game to 'win'. Luckily, the Lovecraftian theme allows for loss that fits in the overall narrative.
+There's a lot going for this game. At first glance, it's a beautiful horror: gorgeous artwork, obtuse symbols, complicated rules, three rulebooks. It definitely asks a lot of the player -- not only with setup and rules understanding, but also strategy and narrative. Its a _tough_ game to 'win'. Luckily, the Lovecraftian theme allows for loss that fits in the overall narrative.
 
 There's also some standout mechanics -- I was surprised at how flexible the format is, allowing for new micro-rules for particular scenarios, all while staying in the overall mechanical vibe.
 
 After only one game, it's tough to assess the character progression/deck building aspect of the game. There sure are a lot of people who get into it, though.
 
-Ultimately, we were all very keen to go again. I would be very interested to see how the design team went about balancing both the player decks, and the scenario progressions, because it although we didn't do very well, the narrative worked amazingly.
+Ultimately, we were all very keen to go again. I would be very interested to see how the design team went about balancing both the player decks, and the scenario progressions -- because although we didn't do very well, the narrative worked amazingly.
 
 ### Key Mechanics
 
