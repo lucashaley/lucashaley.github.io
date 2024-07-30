@@ -1,6 +1,6 @@
 ---
 title: Student Samples
-nav_order: 7
+nav_order: 8
 ---
 Here are some samples of student work from across the years. For some personal notes, please check out some [testimonials](https://lucashaley.com/testimonials).
 
