@@ -1,6 +1,6 @@
 ---
 title: Teaching Testimonials
-nav_order: 7
+nav_order: 8
 permalink: testimonials
 layout: page
 ---
