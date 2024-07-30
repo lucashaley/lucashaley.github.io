@@ -25,7 +25,8 @@ The idea of the game is that you're a drone operator in deep space. You've got t
 *   I wanted to have different sized 'rooms', but didn't want to bother with complex mapping or generative stuff. It's kept simple, but hopefully still works narratively and conceptually. It might get a little non-Euclidean.
     
 *   I wanted to be able to ramp up functionality. So right now, I've got the ship moving around, collecting things, and the Husk has a timer. It's fun, even now. I'd like each pass to keep that fun, and build on it.
-    
+
+<video width="538" height="964" src="https://github.com/lucashaley/lucashaley.github.io/blob/main/uploads/scavenger_03.mp4"></video>
 
 # Turf
 
