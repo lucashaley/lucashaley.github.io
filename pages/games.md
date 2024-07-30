@@ -12,6 +12,8 @@ This is my current whipping post. I've been really inspired by the design philos
 
 ![](/uploads/husk_screenshot_01.png)
 
+_This is very prototype. Please ignore everything about the visuals. You know the drill._
+
 The idea of the game is that you're a drone operator in deep space. You've got to send your drone into an abandoned spaceship (the "husk"), to try to retrieve as much of the data core as you can before the ship collapses, taking your drone with it.
 
 ### Key Points
@@ -28,3 +30,29 @@ The idea of the game is that you're a drone operator in deep space. You've got t
 # Turf
 
 Ahh, Turf. This is a big dream of mine -- perhaps too big. Maybe that's why I'm digging a _much_ smaller functional scope with Husk.
+
+![](/uploads/Turf_01.png)
+
+The idea of Turf is that it's a **real-time, real-world mobile strategy game**. 4-10 people start the app, it divides them into two teams, and starts a timer. Then the players run around in the real world, placing virtual markers. The app then uses those markers to create Voronoi zones -- and the most area owned over the longest time is the winner.
+
+There's a lot to go wrong of challenging stuff there.
+
+### Matchmaking
+
+First, we need to host a game, and know when people join the game. There's a good history of matchmaking behaviors there already -- but in this case, we're teaming _by location_. That is, if more than one person is in roughly the same spot, they become a team. And wow, that's when things get interesting. Because what if they move? Who is the "key" person on the team? How far apart can they be before they become a team? With only two teams available, what happens to people outside of those two keys? What if the two teams are too close to each other? Fun stuff.
+
+![](/uploads/Turf_01.jpg)
+
+### Real-time data
+
+It's a real-time game. So the data needs to be real-time, too. For the prototype I used Google's Firebase Realtime databases, which has observer patterns built in. Nice. After wading through setting it all up, and understanding the best nosql data format, it actually works pretty well.
+
+The tricky part comes with parsing that data and creating the Voronoi regions, and ultimately the score. I tried pushing the computations to each client, but found there was some concurrency issues. I'm now in the thick of trying it on the server, using JavaScript server scripts, but man I'm not enjoying it.
+
+# Turbs
+
+A prior keep-it-simple game, that somehow I made totally not simple at all.
+
+# Kyoto
+
+Virtual Japanese gardening.
