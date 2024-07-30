@@ -23,7 +23,7 @@ Ultimately, we were all very keen to go again. I would be very interested to see
 
 ### Key Mechanics
 
-*   The chaos bag. Allows for different probability distributions and outcomes. Like dice, but better?
+*   The chaos bag. Allows for different probability distributions and outcomes, difficulty levels, and even changing mid-game. Like dice, but better?
     
 *   Clues vs. doom. A cool way of having both a positive and a negative progression for each 'act'. Makes for a very effective race.
     
