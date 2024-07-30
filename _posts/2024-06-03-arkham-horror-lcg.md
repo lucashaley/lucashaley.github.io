@@ -28,3 +28,5 @@ Ultimately, we were all very keen to go again. I would be very interested to see
 *   Clues vs. doom. A cool way of having both a positive and a negative progression for each 'act'. Makes for a very effective race.
     
 *   Locations. Opening and closing locations, travel between, and the way flipping a location can provide further narrative and mechanical opportunities.
+    
+*   The setup and takedown times are horrendous, but so far the enjoyment from the experience has been worthwhile.
