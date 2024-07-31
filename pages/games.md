@@ -14,6 +14,8 @@ This is my current whipping post. I've been really inspired by the design philos
 
 _This is very prototype. Please ignore everything about the visuals. You know the drill._
 
+<iframe frameborder="0" src="https://itch.io/embed/2870091?border_width=0&amp;bg_color=2e3830&amp;fg_color=fff&amp;link_color=aeccae&amp;border_color=fff" width="550" height="165"><a href="https://lucashaley.itch.io/husk">Husk by Lucas</a></iframe>
+
 The idea of the game is that you're a drone operator in deep space. You've got to send your drone into an abandoned spaceship (the "husk"), to try to retrieve as much of the data core as you can before the ship collapses, taking your drone with it.
 
 ### Key Points
