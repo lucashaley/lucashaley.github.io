@@ -1,0 +1,7 @@
+- name: Build with Jekyll
+        env:
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd build/docs
+          bundle install
+          bundle exec jekyll build --source . --destination _site
