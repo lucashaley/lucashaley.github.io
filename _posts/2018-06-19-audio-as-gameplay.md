@@ -1,10 +1,10 @@
 ---
+published: true
 title: Audio as Gameplay
-date: 2018-06-19 00:00:00 Z
 categories:
-- Link
-- Audio
-- Game Design
+  - Link
+  - Audio
+  - Game Design
 excerpt: When sounds make the game.
 ---
 For a group show opening in December I am creating an audio experiential game world. The idea is that there are no visuals for the game -- the player needs to navigate a world using only 3d positional audio. I will attempt to create a narrative from the movement and interaction of the player in this world.
