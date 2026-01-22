@@ -5,7 +5,7 @@ title: Finding work is hard to do
 categories:
   - Personal
 excerpt: Thoughts on careers and technology
-splash_image: /uploads/JobFinding.png
+splash_image: /uploads/2024-05-10-JobFinding.png
 ---
 I've recently moved back to the US after living in Aotearoa New Zealand. While there, I tried hard to put down roots, and establish some sort of career stability. That was not to be, however, as it became clear that I would be able to help family better being back in Portland.
 

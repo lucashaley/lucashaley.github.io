@@ -6,7 +6,7 @@ categories:
   - Maps
   - Artwork
 excerpt: Maps as a narrative landscape
-splash_image: /uploads/ColemanMap_03.jpg
+splash_image: /uploads/2024-05-08-ColemanMap_03.jpg
 ---
 I love maps.
 
@@ -20,6 +20,6 @@ But I realized that it's a really interesting format for narrative -- four secti
 
 So I set out to make a story through cartography, and send it through the mail. Unfortunately I forgot to grab a photo after putting in all the street names.
 
-![](/uploads/ColemanMap_01.jpg)![](/uploads/ColemanMap_02.jpg)![](/uploads/ColemanMap_03.jpg)
+![](/uploads/2024-05-08-ColemanMap_01.jpg)![](/uploads/2024-05-08-ColemanMap_02.jpg)![](/uploads/2024-05-08-ColemanMap_03.jpg)
 
 \[^1\]: Because the cool thing about real mail is not that it gets there, but the journey it takes. Including getting lost.

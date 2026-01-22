@@ -3,7 +3,7 @@ published: true
 date: 2024-05-05
 title: Epic Games Guide to Version Control
 excerpt: Version control? Who needs version control?
-splash_image: /uploads/EpicVersionControl_01.png
+splash_image: /uploads/2024-05-05-EpicVersionControl_01.png
 ---
 While I was working as an Academic Advisor for Epic Games, one of my pet projects was to write a guide on how to get started with version control -- Perforce Helix and Git.
 

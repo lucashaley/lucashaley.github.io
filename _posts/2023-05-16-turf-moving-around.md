@@ -5,7 +5,7 @@ title: "Turf: Moving Around"
 categories:
   - Game Design
 excerpt: Getting closer to the play loop
-splash_image: /uploads/Turf_01.png
+splash_image: /uploads/2023-05-16-Turf_01.png
 ---
 Another quick test of the game. This time in the city — and I managed to find the bot spawn!
 

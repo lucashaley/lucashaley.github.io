@@ -7,7 +7,7 @@ categories:
   - Frustration
   - Programming
 excerpt: A personal note to remind myself
-splash_image: /uploads/CodeSample_01.png
+splash_image: /uploads/2020-06-05-CodeSample_01.png
 ---
 I'm a big fan of Unity. I've been using it since version 2. I've seen it go from small upstart, Mac-only, working with other small Mac apps like [Cheetah3d](http://cheetah3d.de/), to a behemoth owning a huge chunk of the game dev base, and more. I still use it every day, and teach it in my courses.
 

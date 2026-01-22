@@ -5,7 +5,7 @@ title: Excellent Article on Fantasy Cartography
 categories:
   - Article
 excerpt: Just a link.
-splash_image: /uploads/FantasyCartography_01.png
+splash_image: /uploads/2019-09-08-FantasyCartography_01.png
 ---
 [Here Be Cartographers: Reading the Fantasy Map](http://www.nicholastam.ca/2011/04/18/here-be-cartographers-reading-the-fantasy-map/)
 
