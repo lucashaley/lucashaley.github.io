@@ -1,7 +1,8 @@
 title: Lucas Haley
 description: A small personal website
 timezone: America/Los_Angeles
-theme: just-the-docs
+# theme: just-the-docs
+remote_theme: pages-themes/minimal@v0.2.0
 # logo: "/images/lmh.png"
 favicon_ico: "/images/favicon.ico"
 show_drafts: true
@@ -46,6 +47,7 @@ plugins:
 - jekyll-seo-tag
 - jekyll-paginate
 - classifier-reborn
+- jekyll-remote-theme
 include:
 - pages
 paginate: 6
